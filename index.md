@@ -51,9 +51,8 @@ This fundamental equation links economic value directly to moral integrity, prop
 - [Chapter 19: Theology of Value](chapter_19_theology_of_value.html) - Transcendent trust foundations
 - [Appendix: Economic Schools](appendix_01.html) - Comparative analysis
 
-### **Formal Treatment**
-- [Mathematical Framework](chapter_formal.html) - For economists
-- [Equations Explained](chapter_99_formalism_explained.html) - For general readers
+### **Formal Treatment**  
+- [Equations Explained](chapter_99_formalism_explained.html) - Mathematical framework for all readers
 
 ---
 
