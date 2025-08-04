@@ -86,7 +86,7 @@ This work sits at the intersection of:
 
 ## About the Author
 
-Joseph Patrick Mooney developed this theory through collaborative exploration, representing a synthesis of insights from multiple disciplines. The work challenges purely materialist economic frameworks by integrating spiritual and moral dimensions as foundational elements.
+Joseph Patrick Mooney developed this theory through collaborative exploration with AI, representing a synthesis of insights from multiple disciplines. The work challenges purely materialist economic frameworks by integrating spiritual and moral dimensions as foundational elements.
 
 ---
 

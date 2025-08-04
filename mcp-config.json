@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "github": {
+      "command": "npx",
+      "args": [
+        "@modelcontextprotocol/server-github"
+      ],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "your_github_token_here"
+      }
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "@modelcontextprotocol/server-filesystem",
+        "/home/joe/ai/dsvm"
+      ]
+    },
+    "git": {
+      "command": "npx", 
+      "args": [
+        "@modelcontextprotocol/server-git",
+        "--repository=/home/joe/ai/dsvm"
+      ]
+    }
+  }
+}
