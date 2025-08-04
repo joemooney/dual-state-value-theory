@@ -1,44 +1,27 @@
-Chapter 19: A Theology of Value – Transcendent Foundations of Trust
+# Chapter 19: A Theology of Value – Transcendent Foundations of Trust
 
-The Imago Dei and economic agency — value rooted in divine image-bearing.
+## Key Concepts
 
-Faith as maximal trust — wagering on unseen futures.
-
-The parable of the talents — responsibility for stored value.
-
-The forgiveness of debts — spiritual and economic liberation.
-
-Tithing and charity — trust through open-handed giving.
-
-Sacrifice and costliness — value shaped by pain endured.
-
-God as guarantor of value — ultimate issuer of moral currency.
-
-Judgment and moral accounting — nothing hidden forever.
-
-Jesus as systemic redemption — absorbing the breach of trust.
-
-Grace as unearned value — gift economy at the heart of Christianity.
-
-Heaven as perfect trust environment — no entropy, no theft.
-
-Hell as separation from trust — absolute economic exile.
-
-Worship as value declaration — giving the best to the greatest.
-
-Prayer as spiritual credit line — access beyond visible resources.
-
-Eternal ROI — storing treasure in heaven.
-
-Spiritual wealth vs. earthly riches — paradoxes of lasting value.
-
-The corruption of religious systems — when sacred trust is monetized.
-
-Redemption as transfer of infinite value — cross as absolute trust act.
-
-The Holy Spirit as internal validator — discernment of authentic value.
-
-Apocalypse as economic reset — new heaven, new earth, new currency.
+- The Imago Dei and economic agency — value rooted in divine image-bearing
+- Faith as maximal trust — wagering on unseen futures
+- The parable of the talents — responsibility for stored value
+- The forgiveness of debts — spiritual and economic liberation
+- Tithing and charity — trust through open-handed giving
+- Sacrifice and costliness — value shaped by pain endured
+- God as guarantor of value — ultimate issuer of moral currency
+- Judgment and moral accounting — nothing hidden forever
+- Jesus as systemic redemption — absorbing the breach of trust
+- Grace as unearned value — gift economy at the heart of Christianity
+- Heaven as perfect trust environment — no entropy, no theft
+- Hell as separation from trust — absolute economic exile
+- Worship as value declaration — giving the best to the greatest
+- Prayer as spiritual credit line — access beyond visible resources
+- Eternal ROI — storing treasure in heaven
+- Spiritual wealth vs. earthly riches — paradoxes of lasting value
+- The corruption of religious systems — when sacred trust is monetized
+- Redemption as transfer of infinite value — cross as absolute trust act
+- The Holy Spirit as internal validator — discernment of authentic value
+- Apocalypse as economic reset — new heaven, new earth, new currency
 
 Appendix Chapter: Schools of Economics – Competing Theories of Trust and Value
 

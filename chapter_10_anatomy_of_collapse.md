@@ -1,4 +1,4 @@
-Chapter 10: The Anatomy of a Trust Collapse
+# Chapter 10: The Anatomy of a Trust Collapse
 
 Trust is the invisible infrastructure of all systems—social, economic, institutional, and spiritual. When trust collapses, the effects ripple beyond markets or governments. Moral, psychological, and cultural damage follows. The fall is rarely sudden; it begins subtly, through distortions in how value is signaled, perceived, and exchanged. Understanding the anatomy of a trust collapse helps us inoculate our systems—or rebuild them better.
 1. Initial Distortions: The Drift from Value

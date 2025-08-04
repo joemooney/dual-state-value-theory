@@ -1,4 +1,4 @@
-Chapter 11: Redemption and the Dynamics of Rebuilding Trust
+# Chapter 11: Redemption and the Dynamics of Rebuilding Trust
 
 If Chapter 10 maps the anatomy of trust collapse, then this chapter explores its counterpart: the slow, intentional process of redemption. Redemption, unlike mere repair, is transformative. It implies not just fixing what is broken, but elevating the system to a new level of integrity—restoring not just confidence, but conscience.
 

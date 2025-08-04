@@ -1,4 +1,4 @@
-Chapter 14: The Weight of Wealth: Responsibility, Stewardship, and Misplaced Generosity
+# Chapter 14: The Weight of Wealth: Responsibility, Stewardship, and Misplaced Generosity
 
 Wealth is not merely an accumulation of assets—it is an accumulation of trust. Whether earned through innovation, labor, inheritance, or speculation, wealth represents society’s decision to entrust you with greater power over value. As such, the possession of wealth carries with it a profound moral and economic burden. This chapter explores the implications of that burden, distinguishing between stewardship and negligence, between moral redistribution and value erosion, and between generosity that heals and that which unwittingly corrupts.
 Wealth as an Indicator of Systemic Trust

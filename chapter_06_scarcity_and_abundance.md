@@ -1,46 +1,6 @@
-Chapter X: Temporal Trust – Time as a Dimension of Value
+# Chapter 6: Scarcity and Abundance – The Shape of Value
 
-Time preference as a lens for trust allocation — how willingness to delay gratification signals system stability.
-
-Inflation and deflation as distortions of temporal trust — how present-value manipulation disrupts future planning.
-
-The compounding effect of long-term trust — how trust that endures grows value exponentially.
-
-Contracts and deferred value exchanges — mechanisms that bind trust across time.
-
-The decay of trust over time — entropy in human memory, relationships, and institutions.
-
-Savings as temporal compression of potential value — converting many small acts of discipline into future purchasing power.
-
-Historical reliability as a predictor of future value — the importance of track record.
-
-Systemic collapse when time horizons shrink — how short-termism undermines complex systems.
-
-Generational trust and legacy systems — inheritance, dynastic wealth, and intergenerational bonds.
-
-Time arbitrage opportunities — where different actors value time differently.
-
-Trust anchors across time — religion, tradition, and story as long-term stabilizers.
-
-Time-bound volatility and trust disruptions — elections, wars, rate changes.
-
-Technological acceleration and trust feedback loops — shortening of decision-making cycles.
-
-Delayed consequences as hidden trust risks — moral hazard, pension crises.
-
-Flash crashes and the disappearance of time buffers — temporal trust broken in microseconds.
-
-Long-term incentives vs. short-term impulses — managing tension between now and later.
-
-Futures markets as explicit trust-in-time contracts.
-
-The psychology of long-term vision — how planning activates the brain’s trust networks.
-
-Trustworthy systems create time freedom — buy time through reliability.
-
-Time as the true currency of life — death as the ultimate limit of deferred trust.
-
-Chapter 6: Scarcity, Abundance, and the Shape of Value
+## Introduction
 
 To understand the behavior of value, we must examine its terrain—how trust moves through the landscapes of scarcity and abundance. These are not just conditions of material presence or absence; they are psychological, relational, and narrative conditions that shape how humans perceive value and allocate trust. Scarcity focuses trust, heightens attention, and demands prioritization. Abundance disperses trust, reduces friction, and shifts concern from possession to stewardship.
 

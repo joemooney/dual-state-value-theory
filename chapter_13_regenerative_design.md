@@ -1,4 +1,4 @@
-Chapter 13: Rebirth: Designing for Regenerative Trust
+# Chapter 13: Rebirth: Designing for Regenerative Trust
 
 Collapse is not the end. Like fire in a forest, it can destroy—but it can also clear away the underbrush and enrich the soil. This chapter explores what happens after the fall: how new systems emerge, how trust is carefully rebuilt, and how to design institutions, currencies, and communities that do not merely survive—but regenerate trust as a natural process.
 

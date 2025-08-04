@@ -1,4 +1,4 @@
-Chapter 12: Collapse: When Trust Fails Systemically
+# Chapter 12: Collapse: When Trust Fails Systemically
 
 If trust is the lifeblood of any complex system—economic, political, or social—then collapse is the moment when circulation ceases. This chapter dissects what happens when trust is not merely bruised but systemically broken. It aims to illuminate the anatomy of collapse not just as a chaotic endpoint, but as a consequence of structural, moral, and informational failures accumulating over time.
 

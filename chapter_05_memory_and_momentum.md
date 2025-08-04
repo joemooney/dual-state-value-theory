@@ -1,46 +1,29 @@
-Chapter 5: Case Studies of Redemption and Collapse
+# Chapter 5: Case Studies of Redemption and Collapse
 
-The Weimar Republic and trust collapse.
+## Key Case Studies
 
-Post-WWII rebuilding: trust redemption.
+- The Weimar Republic and trust collapse
+- Post-WWII rebuilding: trust redemption
+- 2008 financial crisis: manufactured trust and its limits
+- Bitcoin emergence post-crisis
+- Zimbabwe: collapse and barter revival
+- Argentina: currency collapse and dual economies
+- Lebanon's trust breakdown and gold revaluation
+- Venezuela's failed kinetic trust engine
+- Hyperinflation and spiritual despair
+- Historical bank runs and public panic
+- Central banking as an attempt to engineer trust
+- Bretton Woods and dollar hegemony
+- 1971 decoupling from gold
+- El Salvador's bitcoin gamble
+- The moral of currency failures
+- The grace in post-crisis rebuilding
+- Personal redemptions: small-scale economic miracles
+- Blockchain as trust ledger
+- Centralized control vs decentralized trust
+- Summary of what can and cannot be redeemed
 
-2008 financial crisis: manufactured trust and its limits.
-
-Bitcoin emergence post-crisis.
-
-Zimbabwe: collapse and barter revival.
-
-Argentina: currency collapse and dual economies.
-
-Lebanon’s trust breakdown and gold revaluation.
-
-Venezuela’s failed kinetic trust engine.
-
-Hyperinflation and spiritual despair.
-
-Historical bank runs and public panic.
-
-Central banking as an attempt to engineer trust.
-
-Bretton Woods and dollar hegemony.
-
-1971 decoupling from gold.
-
-El Salvador’s bitcoin gamble.
-
-The moral of currency failures.
-
-The grace in post-crisis rebuilding.
-
-Personal redemptions: small-scale economic miracles.
-
-Blockchain as trust ledger.
-
-Centralized control vs decentralized trust.
-
-Summary of what can and cannot be redeemed.
-
-Chapter 5: Memory and Momentum—Value as Inherited Trust
+## Memory and Momentum—Value as Inherited Trust
 
 As value moves through the world, it leaves behind traces—not just in ledgers or balances, but in relationships, institutions, and reputations. Chapter 5 explores value not merely as an ephemeral transaction but as a vessel of memory. Trust accumulates or deteriorates over time, and its flow is shaped profoundly by historical precedent. This accumulation—this moral sediment—creates what we might call value momentum.
 

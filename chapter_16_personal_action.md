@@ -1,4 +1,4 @@
-Chapter 16: Personal Action in a Trust Economy
+# Chapter 16: Personal Action in a Trust Economy
 
 At the core of the Dual-State Value framework lies a deeply moral question: What should I do?
 

@@ -1,4 +1,4 @@
-Chapter 15: Collectivism and Individualism in the Moral Economy
+# Chapter 15: Collectivism and Individualism in the Moral Economy
 
 At the heart of the Dual-State Value framework lies a recurring and essential tension: the push and pull between collectivism and individualism. These are not merely political or economic ideologies—they are archetypal forces that shape how trust is distributed, how value is created and transferred, and how responsibility is shouldered within a society. Each orientation introduces distinct patterns of behavior, different vulnerabilities, and unique moral imperatives.
 

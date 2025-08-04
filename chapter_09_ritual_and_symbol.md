@@ -1,4 +1,4 @@
-Chapter 9: Ritual, Symbol, and the Encoding of Value
+# Chapter 9: Ritual, Symbol, and the Encoding of Value
 
 Every civilization encodes its values in rituals and symbols. These are not decorative artifacts—they are trust technologies. They stabilize meaning across time, embed value in behavior, and signal shared understanding within a group. Rituals are embodied memory; symbols are compressed signals of collective trust. In a value ontology rooted in kinetic and potential states, these forms play a critical role in transmitting, storing, and verifying value beyond mere utility or price.
 
