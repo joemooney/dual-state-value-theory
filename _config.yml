@@ -1,0 +1,53 @@
+# Site settings
+title: "The Dual-State Value Theory"
+subtitle: "A Framework for Trust, Value, and Human Economics"
+author: "Joseph Patrick Mooney"
+description: "A comprehensive philosophical-economic framework modeling trust, value, and monetary systems through potential and kinetic energy states."
+
+# GitHub Pages settings
+url: "https://joemooney.github.io"
+baseurl: "/dual-state-value-theory"
+
+# Theme selection - using minima for clean academic look
+theme: minima
+
+# Jekyll configuration
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Collections for chapters
+collections:
+  chapters:
+    output: true
+    permalink: /:collection/:name/
+
+# Navigation structure
+header_pages:
+  - abstract.md
+  - index.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Academic features
+scholar:
+  style: apa
+  
+# Google Analytics (optional)
+# google_analytics: YOUR_GA_ID
+
+# Social media
+github_username: joemooney
+
+# Exclude files from build
+exclude:
+  - dialog.txt
+  - CLAUDE.md
+  - README.md
+  - .gitignore
