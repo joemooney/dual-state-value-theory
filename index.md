@@ -14,13 +14,21 @@ title: "The Dual-State Value Theory"
 
 This site presents a comprehensive exploration of the **Dual-State Value Theory** - a novel philosophical-economic framework that reconceptualizes how we understand trust, value, and monetary systems.
 
+## **📖 Read the Complete Book**
+
+**Choose your preferred format:**
+
+- **[💻 Single-Page Web Version](complete-book.html)** - Read the entire book on one scrollable page
+- **[📄 Download PDF](The_Dual_State_Value_Theory.pdf)** - Professional format for printing or offline reading (453KB)
+- **[🔗 Multi-Chapter Navigation](#navigation)** - Browse individual chapters below
+
 ## Core Thesis
 
 **Total System Value (TSV) = Total System Honesty (TSH)**
 
 This fundamental equation links economic value directly to moral integrity, proposing that all value exists in dual states analogous to potential and kinetic energy in physics.
 
-## Navigation
+## Navigation {#navigation}
 
 ### **Part I: Foundations**
 - [Abstract](abstract.html) - Core thesis introduction
