@@ -27,7 +27,7 @@
 
 ## Introduction
 
-Every unit of value—whether a dollar, a deed, or a data stream—traces a path from genesis to exhaustion. The Dual-State Model frames this journey as a lifecycle of transformation from potential to kinetic and, eventually, back again. Understanding this lifecycle helps us make sense of everything from business cycles to generational wealth to the rise and fall of institutions.
+Every unit of value—whether a dollar, a deed, or a data stream—traces a path from genesis to exhaustion. The Dual-State Value Theory frames this journey as a lifecycle of transformation from potential to kinetic and, eventually, back again. Understanding this lifecycle helps us make sense of everything from business cycles to generational wealth to the rise and fall of institutions.
 
 ## Genesis: The Birth of Potential Value
 

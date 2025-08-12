@@ -1,4 +1,4 @@
-# Chapter 1: Foundations of the Dual-State Model
+# Chapter 1: Foundations of the Dual-State Value Theory
 
 ## Key Concepts
 

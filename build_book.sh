@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# DSVM Book Build Script
+# DSVT Book Build Script
 # Generates a professional PDF book from markdown chapters
 
 set -e  # Exit on any error
@@ -15,12 +15,12 @@ NC='\033[0m' # No Color
 # Configuration
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 OUTPUT_DIR="$SCRIPT_DIR/output"
-BOOK_NAME="dsvm_book"
+BOOK_NAME="dsvt_book"
 
 # Functions
 print_header() {
     echo -e "${BLUE}================================${NC}"
-    echo -e "${BLUE} DSVM Book Generation Script${NC}"
+    echo -e "${BLUE} DSVT (Dual-State Value Theory) Book Generation Script${NC}"
     echo -e "${BLUE}================================${NC}"
     echo
 }

@@ -1,6 +1,6 @@
-# DSVM Book Generation System
+# DSVT Book Generation System
 
-This directory contains a comprehensive book generation system that converts the DSVM (Dual-State Value Theory) markdown chapters into a professional PDF book using LaTeX.
+This directory contains a comprehensive book generation system that converts the DSVT (Dual-State Value Theory) markdown chapters into a professional PDF book using LaTeX.
 
 ## Quick Start
 
@@ -177,7 +177,7 @@ The generated PDF is a **professional academic book** with:
 - 67 pages of content
 - Proper chapter structure and numbering
 - Academic formatting suitable for publication
-- Complete DSVM theoretical framework
+- Complete DSVT theoretical framework
 - Mathematical appendix with formal definitions
 
 This represents a **substantial scholarly work** ready for academic review and publication with minor Unicode encoding improvements.

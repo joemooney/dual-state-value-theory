@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-DSVM Book Generator
+DSVT Book Generator
 
-Converts markdown chapters to a professional LaTeX book format.
-Handles chapter ordering, markdown to LaTeX conversion, and book compilation.
+Converts markdown chapters to a professional LaTeX book format for the 
+Dual-State Value Theory. Handles chapter ordering, markdown to LaTeX 
+conversion, and book compilation.
 """
 
 import os
@@ -14,7 +15,7 @@ import argparse
 from pathlib import Path
 from typing import List, Dict, Tuple, Optional
 
-class DSVMBookGenerator:
+class DSVTBookGenerator:
     def __init__(self, source_dir: str = "."):
         self.source_dir = Path(source_dir)
         self.output_dir = self.source_dir / "output"
@@ -24,7 +25,7 @@ class DSVMBookGenerator:
         self.chapter_order = [
             ("abstract.md", "Abstract"),
             ("introduction.md", "Introduction"),
-            ("chapter_01_foundations.md", "Chapter 1: Foundations of the Dual-State Model"),
+            ("chapter_01_foundations.md", "Chapter 1: Foundations of the Dual-State Value Theory"),
             ("chapter_02_trust_value_engine.md", "Chapter 2: The Trust-Value Engine"),
             ("chapter_03_lifecycle_of_value.md", "Chapter 3: The Lifecycle of Value"),
             ("chapter_04_flow_mechanics.md", "Chapter 4: Flow Mechanics"),
@@ -153,9 +154,9 @@ class DSVMBookGenerator:
         else:
             return f"\\chapter{{{title[10:]}}}\n{latex_content}"  # Remove "Chapter X: "
             
-    def generate_book(self, output_filename: str = "dsvm_book.tex") -> bool:
+    def generate_book(self, output_filename: str = "dsvt_book.tex") -> bool:
         """Generate the complete book."""
-        print("Generating DSVM Book...")
+        print("Generating DSVT Book...")
         
         # Read template
         if not self.template_file.exists():
@@ -195,7 +196,7 @@ class DSVMBookGenerator:
         print(f"Book generated: {output_path}")
         return True
         
-    def compile_pdf(self, tex_filename: str = "dsvm_book.tex") -> bool:
+    def compile_pdf(self, tex_filename: str = "dsvt_book.tex") -> bool:
         """Compile LaTeX to PDF."""
         tex_path = self.output_dir / tex_filename
         
@@ -246,15 +247,15 @@ class DSVMBookGenerator:
                 print(f"Removed: {file.name}")
 
 def main():
-    parser = argparse.ArgumentParser(description='Generate DSVM book from markdown chapters')
+    parser = argparse.ArgumentParser(description='Generate DSVT (Dual-State Value Theory) book from markdown chapters')
     parser.add_argument('--source-dir', default='.', help='Source directory containing markdown files')
-    parser.add_argument('--output-name', default='dsvm_book', help='Output filename (without extension)')
+    parser.add_argument('--output-name', default='dsvt_book', help='Output filename (without extension)')
     parser.add_argument('--compile', action='store_true', help='Compile LaTeX to PDF')
     parser.add_argument('--clean', action='store_true', help='Clean auxiliary files after compilation')
     
     args = parser.parse_args()
     
-    generator = DSVMBookGenerator(args.source_dir)
+    generator = DSVTBookGenerator(args.source_dir)
     
     # Generate LaTeX
     tex_filename = f"{args.output_name}.tex"

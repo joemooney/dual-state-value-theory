@@ -137,6 +137,6 @@ Flow mechanics also reveal the importance of intermediary roles—banks, courts,
 
 Finally, trust flow can be mapped—not just through money trails, but through patterns of decision, sacrifice, and coordination. Who takes the first risk? Who absorbs loss? Who honors commitments when outcomes falter? These questions locate the hidden infrastructure of moral capital that sustains motion.
 
-In sum, value does not flow on its own. It requires design, discipline, and shared meaning. The Dual-State Model views trust not merely as a sentiment but as a dynamic architecture—a moral hydraulics of the human economy. Understanding this architecture gives us tools to diagnose dysfunction, engineer renewal, and direct value toward flourishing.
+In sum, value does not flow on its own. It requires design, discipline, and shared meaning. The Dual-State Value Theory views trust not merely as a sentiment but as a dynamic architecture—a moral hydraulics of the human economy. Understanding this architecture gives us tools to diagnose dysfunction, engineer renewal, and direct value toward flourishing.
 
 In the next chapter, we’ll explore how value systems encode memory—how past flows of trust influence present configurations and future possibility.
