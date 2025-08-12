@@ -80,7 +80,8 @@ create_output_dir() {
 generate_latex() {
     print_step "Generating LaTeX from markdown chapters..."
     
-    if ! python3 "$SCRIPT_DIR/generate_book.py" --source-dir "$SCRIPT_DIR" --output-name "$BOOK_NAME"; then
+    # Use the improved v2 generator
+    if ! python3 "$SCRIPT_DIR/generate_book_v2.py" --source-dir "$SCRIPT_DIR" --output-name "$BOOK_NAME"; then
         print_error "Failed to generate LaTeX"
         exit 1
     fi

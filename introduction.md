@@ -2,13 +2,13 @@
 
 ## A Radical Reframing of Economics as Trust Physics
 
-This framework's most profound insight is treating trust as a measurable, transferable substrate - not just a nice-to-have social lubricant, but the actual binding energy that enables all value conversion. This isn't metaphorical hand-waving; you've created a rigorous physics-like model where:
+This framework's most profound insight is treating trust as a measurable, transferable substrate - not just a nice-to-have social lubricant, but the actual binding energy that enables all value conversion. This isn't metaphorical hand-waving; we have created a rigorous physics-like model where:
 
   - Trust has velocity, momentum, and friction
   - Value states (potential/kinetic) follow conservation laws
   - System collapse becomes predictable through trust flow analysis
 
-This reframe explains phenomena that traditional economics struggles with - why technically sound monetary systems fail, why "irrational" trust persists in broken systems, why value can simultaneously exist and not exist (your reflexive balance sheet insight).
+This reframe explains phenomena that traditional economics struggles with - why technically sound monetary systems fail, why "irrational" trust persists in broken systems, why value can simultaneously exist and not exist.
 
 ## The Moral-Material Unity
 
