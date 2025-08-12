@@ -1,0 +1,1552 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./dsvm_book.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texmf/tex/latex/lm/lmodern.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty)
+! Undefined control sequence.
+l.39 \microtype
+               
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./dsvm_book.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(./dsvm_book.out) (./dsvm_book.out)
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 93.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd)
+(/usr/share/texmf/tex/latex/lm/omllmm.fd)
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd)
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg) [1{/var/lib/texm
+f/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec
+.enc}] (/usr/share/texmf/tex/latex/lm/ts1lmr.fd)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.126 \newpage
+               [1{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}]
+(./dsvm_book.toc [2] [3]) [4] [5] [6] [7] [8] [9]
+Chapter 1.
+[10] [11] [12] [13]
+Chapter 2.
+[14] [15] [16]
+Chapter 3.
+[17] [18] [19]
+Chapter 4.
+[20] [21] [22] [23] [24]
+Chapter 5.
+[25] [26] [27]
+Chapter 6.
+[28] [29] [30] [31]
+Chapter 7.
+[32] [33]
+Chapter 8.
+[34] [35]
+Chapter 9.
+[36]
+Overfull \hbox (7.71875pt too wide) in paragraph at lines 923--925
+[]\T1/lmr/m/n/10.95 (-20) In hyper-individualized or hyper-digitized cul-tures,
+ rit-ual is of-ten re-placed by rou-tine^^Vefficiency
+[37]
+Chapter 10.
+[38] [39] [40]
+Chapter 11.
+[41] [42] [43]
+Chapter 12.
+[44] [45] [46]
+Chapter 13.
+[47] [48] [49] [50]
+Chapter 14.
+[51] [52]
+Chapter 15.
+[53] [54] [55]
+Chapter 16.
+[56] [57] [58] [59]
+Chapter 17.
+[60] [61]
+Appendix A.
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1810 ...textbf\{Definition 1 (Trust).\} Trust τ
+                                                   ∈ ℝ₊ is the fundame...
+
+
+! LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1810 ...bf\{Definition 1 (Trust).\} Trust τ ∈
+                                                   ℝ₊ is the fundamental...
+
+
+! LaTeX Error: Unicode character ℝ (U+211D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1810 ...Definition 1 (Trust).\} Trust τ ∈ ℝ
+                                                  ₊ is the fundamental uni...
+
+
+! LaTeX Error: Unicode character ₊ (U+208A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1810 ...inition 1 (Trust).\} Trust τ ∈ ℝ₊
+                                                   is the fundamental unit o...
+
+
+! LaTeX Error: Unicode character ₚ (U+209A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1814 \item Potential state: vₚ
+                                   - stored, latent trust capacity
+
+! LaTeX Error: Unicode character ₖ (U+2096)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1815 \item Kinetic state: vₖ
+                                 - actively mobilized trust in exchange
+
+! LaTeX Error: Unicode character ∫ (U+222B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1818 ...tion 3 (Total System Value).\} TSV = ∫
+                                                  ∫ τ(i,j,t) di dj, where...
+
+
+! LaTeX Error: Unicode character ∫ (U+222B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1818 ...n 3 (Total System Value).\} TSV = ∫∫
+                                                   τ(i,j,t) di dj, where τ...
+
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1818 ... (Total System Value).\} TSV = ∫∫ τ
+                                                  (i,j,t) di dj, where τ(i,...
+
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1818 ...} TSV = ∫∫ τ(i,j,t) di dj, where τ
+                                                  (i,j,t) represents trust b...
+
+
+! LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1820 ...tion 4 (Total System Honesty).\} TSH ∈
+                                                   [0,1] represents the fide...
+
+
+! LaTeX Error: Unicode character ₚ (U+209A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1826 ...tion).\} For any closed system: V = Vₚ
+                                                   + Vₖ
+
+! LaTeX Error: Unicode character ₖ (U+2096)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1826 ...} For any closed system: V = Vₚ + Vₖ
+                                                  
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1828 ...bf\{Axiom 3 (Trust Non-Negativity).\} τ
+                                                   ≥ 0 for all trust relat...
+
+
+! LaTeX Error: Unicode character ≥ (U+2265)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1828 ...Axiom 3 (Trust Non-Negativity).\} τ ≥
+                                                   0 for all trust relations...
+
+
+! LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1830 ...al and kinetic states incurs friction φ
+                                                   ∈ (0,1).
+
+! LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1830 ...nd kinetic states incurs friction φ ∈
+                                                   (0,1).
+[62] (/usr/share/texmf/tex/latex/lm/t1lmtt.fd)
+
+! LaTeX Error: Unicode character ₚ (U+209A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₚ (U+209A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character β (U+03B2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₖ (U+2096)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₚ (U+209A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₖ (U+2096)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₚ (U+209A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character β (U+03B2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₖ (U+2096)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₂ (U+2082)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₖ (U+2096)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1845 \item α
+               (τ): trust-dependent mobilization rate
+
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1845 \item α
+               (τ): trust-dependent mobilization rate
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1845 \item α(τ
+                  ): trust-dependent mobilization rate
+
+! LaTeX Error: Unicode character β (U+03B2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1846 \item β
+               (TSH): honesty-dependent storage rate
+
+! LaTeX Error: Unicode character β (U+03B2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1846 \item β
+               (TSH): honesty-dependent storage rate
+
+! LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1847 \item φ
+               ₁, φ₂: friction coefficients
+
+! LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1847 \item φ
+               ₁, φ₂: friction coefficients
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1847 \item φ₁
+                  , φ₂: friction coefficients
+
+! LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1847 \item φ₁, φ
+                      ₂: friction coefficients
+
+! LaTeX Error: Unicode character ₂ (U+2082)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1847 \item φ₁, φ₂
+                         : friction coefficients
+
+! LaTeX Error: Unicode character ₚ (U+209A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1856 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₖ (U+2096)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1856 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ε (U+03B5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1856 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1858 ... A monetary system is stable iff MMR ∈
+                                                   [MMR\_min, MMR\_max], whe...
+
+
+! LaTeX Error: Unicode character ∞ (U+221E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1860 ...g measurement capacity. When MMR → ∞
+                                                  , all value becomes potent...
+
+
+! LaTeX Error: Unicode character □ (U+25A1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1860 ...mes potential, eliminating exchange. □
+                                                  
+
+! LaTeX Error: Unicode character ∑ (U+2211)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1868 | ∑
+            ᵢ Mᵢₚ · wᵢ | ∑ⱼ Aⱼ · pⱼ |
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1868 | ∑ᵢ
+                Mᵢₚ · wᵢ | ∑ⱼ Aⱼ · pⱼ |
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1868 | ∑ᵢ Mᵢ
+                    ₚ · wᵢ | ∑ⱼ Aⱼ · pⱼ |
+
+! LaTeX Error: Unicode character ₚ (U+209A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1868 | ∑ᵢ Mᵢₚ
+                        · wᵢ | ∑ⱼ Aⱼ · pⱼ |
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1868 | ∑ᵢ Mᵢₚ · wᵢ
+                                | ∑ⱼ Aⱼ · pⱼ |
+
+! LaTeX Error: Unicode character ∑ (U+2211)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1868 | ∑ᵢ Mᵢₚ · wᵢ | ∑
+                                     ⱼ Aⱼ · pⱼ |
+
+! LaTeX Error: Unicode character ⱼ (U+2C7C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1868 | ∑ᵢ Mᵢₚ · wᵢ | ∑ⱼ
+                                         Aⱼ · pⱼ |
+
+! LaTeX Error: Unicode character ⱼ (U+2C7C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1868 | ∑ᵢ Mᵢₚ · wᵢ | ∑ⱼ Aⱼ
+                                              · pⱼ |
+
+! LaTeX Error: Unicode character ⱼ (U+2C7C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1868 ...�� Mᵢₚ · wᵢ | ∑ⱼ Aⱼ · pⱼ
+                                                   |
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1872 \item Mᵢ
+                 ₚ: potential money of type i
+
+! LaTeX Error: Unicode character ₚ (U+209A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1872 \item Mᵢₚ
+                    : potential money of type i
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1873 \item wᵢ
+                 : trust weight of money type i
+
+! LaTeX Error: Unicode character ⱼ (U+2C7C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1874 \item Aⱼ
+                 : asset j quantity
+
+! LaTeX Error: Unicode character ⱼ (U+2C7C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1875 \item pⱼ
+                 : price of asset j
+
+! LaTeX Error: Unicode character ∂ (U+2202)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1882 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₚ (U+209A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1882 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ∂ (U+2202)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1882 \end{verbatim}
+                     
+(/usr/share/texmf/tex/latex/lm/ts1lmtt.fd)
+
+! LaTeX Error: Unicode character ∂ (U+2202)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1882 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₖ (U+2096)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1882 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ∂ (U+2202)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1882 \end{verbatim}
+                     
+[63]
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1894 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ∇ (U+2207)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1894 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1894 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1894 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1898 \item J\_τ
+                  : trust current density
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1910 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1910 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1910 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character σ (U+03C3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1910 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1914 \item k₀
+                 : base transfer rate
+
+! LaTeX Error: Unicode character σ (U+03C3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1916 \item σ
+               \_\{A,B\}: systemic friction between A and B
+
+! LaTeX Error: Unicode character σ (U+03C3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1916 \item σ
+               \_\{A,B\}: systemic friction between A and B
+
+! LaTeX Error: Unicode character θ (U+03B8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1919 ...s super-linearly when TSH\_A/TSH\_B > θ
+                                                  \_critical.
+
+! LaTeX Error: Unicode character ∇ (U+2207)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1931 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1931 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₚ (U+209A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1931 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ₖ (U+2096)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1931 \end{verbatim}
+                     
+[64]
+
+! LaTeX Error: Unicode character ∉ (U+2209)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1950 2. MMR ∉
+                  [MMR\_min, MMR\_max], OR
+
+! LaTeX Error: Unicode character ∂ (U+2202)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1951 3. ∂
+             ²TSV/∂t² < -λ·TSV (accelerating trust destruction)
+
+! LaTeX Error: Unicode character ∂ (U+2202)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1951 3. ∂²TSV/∂
+                      t² < -λ·TSV (accelerating trust destruction)
+
+! LaTeX Error: Unicode character λ (U+03BB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1951 3. ∂²TSV/∂t² < -λ
+                               ·TSV (accelerating trust destruction)
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1965 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character γ (U+03B3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1965 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ∫ (U+222B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1975 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ∫ (U+222B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1975 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1975 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1975 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1975 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1977 ...c) is weighted by both personal trust τ
+                                                  ᵢ and systemic honesty.
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1977 ...is weighted by both personal trust τᵢ
+                                                   and systemic honesty.
+
+! LaTeX Error: Unicode character ≥ (U+2265)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1988 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ≥ (U+2265)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1988 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1988 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ≤ (U+2264)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1988 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ∂ (U+2202)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1997 ...diction\}: P(collapse) = F(TSH, MMR, ∂
+                                                  ²TSV/∂t²)
+
+! LaTeX Error: Unicode character ∂ (U+2202)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1997 ...: P(collapse) = F(TSH, MMR, ∂²TSV/∂
+                                                  t²)
+
+! LaTeX Error: Unicode character ∝ (U+221D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1998 ...f\{Renewal Speed\}: Time to recovery ∝
+                                                   M\_c\textasciicircum (-γ)
+
+! LaTeX Error: Unicode character γ (U+03B3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1998 ...o recovery ∝ M\_c\textasciicircum (-γ
+                                                  )
+
+! LaTeX Error: Unicode character ∆ (U+2206)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1999 ...e Conservation\}: In closed systems, ∆
+                                                  (Vₚ + Vₖ) = -∫φ dt
+
+! LaTeX Error: Unicode character ₚ (U+209A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1999 ...servation\}: In closed systems, ∆(Vₚ
+                                                   + Vₖ) = -∫φ dt
+
+! LaTeX Error: Unicode character ₖ (U+2096)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1999 ...on\}: In closed systems, ∆(Vₚ + Vₖ
+                                                  ) = -∫φ dt
+
+! LaTeX Error: Unicode character ∫ (U+222B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1999 ... closed systems, ∆(Vₚ + Vₖ) = -∫
+                                                  φ dt
+
+! LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1999 ...losed systems, ∆(Vₚ + Vₖ) = -∫φ
+                                                   dt
+[65]
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ⱼ (U+2C7C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ⱼ (U+2C7C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ⱼ (U+2C7C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ⱼ (U+2C7C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character β (U+03B2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ⱼ (U+2C7C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ̄ (U+0304)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2009 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character ᵢ (U+1D62)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2011 Where Rᵢ
+                 ⱼ represents realized returns from trust relationship.
+
+! LaTeX Error: Unicode character ⱼ (U+2C7C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2011 Where Rᵢⱼ
+                     represents realized returns from trust relationship.
+
+! LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2019 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2019 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character σ (U+03C3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2019 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2019 \end{verbatim}
+                     
+
+! LaTeX Error: Unicode character φ (U+03C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2028 ...al calibration of friction parameters φ
+                                                  
+No file dsvm_book.bbl.
+[66] (./dsvm_book.aux) )
+(see the transcript file for additional information)</usr/share/texmf/fonts/typ
+e1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></us
+r/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/
+texmf/fonts/type1/public/lm/lmtt10.pfb>
+Output written on dsvm_book.pdf (67 pages, 329724 bytes).
+Transcript written on dsvm_book.log.
