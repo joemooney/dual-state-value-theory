@@ -83,7 +83,7 @@ This framework doesn't just aim to describe the world - it offers a vision for t
 
 ## Takeaway
 
-The deepest message revealed by this work is that our economic problems are actually trust problems, our trust problems are actually moral problems, and our moral problems have practical solutions. By showing how individual choices aggregate into systemic outcomes, we have go beyond just theory and provide a pathway from recognition to renewal - for persons, institutions, and civilizations.
+The deepest message revealed by this work is that our economic problems are actually trust problems, our trust problems are actually moral problems, and our moral problems have practical solutions. By showing how individual choices aggregate into systemic outcomes, we go beyond just theory and provide a pathway from recognition to renewal - for persons, institutions, and civilizations.
 
 We believe anchoring our systems firmly in trust could fundamentally reshape how we understand value, design systems, and navigate the challenges of our time.
 

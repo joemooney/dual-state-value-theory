@@ -11,10 +11,26 @@ At its core, DSVM proposes that all value exists in one of two states:
 The fundamental equation **Total System Value (TSV) = Total System Honesty (TSH)** links economic outcomes directly to moral integrity, making ethics not optional but foundational to sustainable prosperity.
 
 ## Core Innovation
-DSVM's unique contribution is treating **trust as a quantifiable, transferable resource** — the binding energy that enables conversion between potential and kinetic value states. This creates a physics-like framework for understanding:
+DSVM's unique contribution has evolved to include two fundamental insights:
+
+### 1. The Pointer Theory of Money
+Money doesn't create or contain value—it merely points to it. Like a laser pointer in a dark warehouse, money indicates where we collectively agree value resides. This explains:
+- Why market crashes don't destroy real value (factories, skills remain)
+- How inflation works (subdividing the pointer, not creating value)
+- Why multiple monetary systems compete (different pointer systems)
+- How bubbles form (pointer concentration exceeding sustainable levels)
+
+### 2. Trust as Quantifiable Resource
+Trust acts as the binding energy that enables conversion between potential and kinetic value states. This creates a physics-like framework with three conservation laws:
+- **First Law**: Total System Value is conserved—only pointer distribution changes
+- **Second Law**: Trust entropy always increases without active maintenance
+- **Third Law**: At absolute zero trust, only immediate physical exchange remains
+
+These innovations explain:
 - How value flows through individuals, organizations, and societies
-- Why monetary systems rise and fall based on trust dynamics
+- Why monetary systems rise and fall based on pointer system credibility
 - How moral choices aggregate into economic outcomes
+- Why collapse is pointer failure, not value destruction
 - How systems can be designed for anti-fragile renewal rather than inevitable collapse
 
 ## Comprehensive Scope
@@ -99,9 +115,12 @@ DSVM addresses societal challenges through:
 ## Unique Contributions
 
 ### **Theoretical Innovation**
-- **Physics Metaphor Applied to Economics**: First systematic application of potential/kinetic energy concepts to value theory
-- **Quantified Trust Dynamics**: Mathematical modeling of trust as measurable, transferable resource
-- **Reflexive Balance Sheet**: Solving the paradox of how money can measure itself through asymmetric trust states
+- **Pointer Theory of Money**: Revolutionary insight that money points to value rather than containing it
+- **Conservation Laws of Value**: Three fundamental laws governing all economic systems
+- **Physics Metaphor Applied to Economics**: Systematic application of potential/kinetic energy and thermodynamics to value theory
+- **Quantified Trust Dynamics**: Mathematical modeling of trust as measurable, transferable resource with entropy characteristics
+- **Pointer Field Mathematics**: Formal equations describing attention distribution and value indication
+- **Reflexive Balance Sheet**: Solving the paradox of how money can measure itself through asymmetric pointer states
 - **Moral Integration**: Seamless weaving of ethical dimensions throughout economic analysis
 
 ### **Practical Synthesis**
