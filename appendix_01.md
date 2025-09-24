@@ -8,7 +8,7 @@ This chapter presents a formal economic model of value based on the dual-state f
 
 ### 2.1 Definitions
 
-**Definition 1 (Trust).** Trust τ ∈ ℝ₊ is the fundamental unit of economic value, representing the confidence agents place in the future fulfillment of explicit or implicit contracts.
+**Definition 1 (Trust).** Trust $\tau \in \mathbb{R}_+$ is the fundamental unit of economic value, representing the confidence agents place in the future fulfillment of explicit or implicit contracts.
 
 **Definition 2 (Value States).** Any quantum of value v exists in one of two states:
 - Potential state: vₚ - stored, latent trust capacity

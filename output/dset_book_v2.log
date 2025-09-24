@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.8.3)  23 SEP 2025 22:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.8.3)  23 SEP 2025 22:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**dset_book.tex
-(./dset_book.tex
+**dset_book_v2.tex
+(./dset_book_v2.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
@@ -545,8 +545,8 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count306
 \l__pdf_internal_box=\box63
 )
-(./dset_book.aux)
-\openout1 = `dset_book.aux'.
+No file dset_book_v2.aux.
+\openout1 = `dset_book_v2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
 LaTeX Font Info:    ... okay on input line 93.
@@ -566,7 +566,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
 LaTeX Font Info:    ... okay on input line 93.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
 LaTeX Font Info:    ... okay on input line 93.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -624,10 +623,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package hyperref Info: Link coloring ON on input line 93.
-
-(./dset_book.out) (./dset_book.out)
 \@outlinefile=\write3
-\openout3 = `dset_book.out'.
+\openout3 = `dset_book_v2.out'.
 
 LaTeX Info: Redefining \microtypecontext on input line 93.
 Package microtype Info: Applying patch `item' on input line 93.
@@ -715,66 +712,63 @@ been already used, duplicate ignored
                    \relax 
 l.126 \newpage
                [1{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}]
-(./dset_book.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 2.
- [2] [3] [4])
+No file dset_book_v2.toc.
 \tf@toc=\write4
-\openout4 = `dset_book.toc'.
+\openout4 = `dset_book_v2.toc'.
 
- [5] [6
+[2] [3
 
-] [7
+] [4
 
-] [8] [9] [10]
+] [5] [6] [7]
 Chapter 1.
-[11
+[8
 
-] [12] [13] [14] [15] [16] [17]
+] [9] [10] [11] [12] [13] [14]
 Chapter 2.
-[18
+[15
 
-] [19] [20] [21] [22]
+] [16] [17] [18] [19]
 Chapter 3.
+[20
+
+] [21] [22]
+Chapter 4.
 [23
 
-] [24] [25]
-Chapter 4.
-[26
-
-] [27] [28] [29] [30]
+] [24] [25] [26] [27]
 Chapter 5.
+[28
+
+] [29] [30]
+Chapter 6.
 [31
 
-] [32] [33]
-Chapter 6.
-[34
-
-] [35] [36] [37]
+] [32] [33] [34]
 Chapter 7.
-[38
+[35
 
-] [39]
+] [36]
 Chapter 8.
-[40
+[37
 
-] [41]
+] [38]
 Chapter 9.
-[42
+[39
 
-] [43]
-Overfull \hbox (7.71875pt too wide) in paragraph at lines 1361--1362
+] [40]
+Overfull \hbox (7.71875pt too wide) in paragraph at lines 1359--1360
 []\T1/lmr/m/n/10.95 (-20) In hyper-individualized or hyper-digitized cul-tures,
  rit-ual is of-ten re-placed by rou-tine^^Vefficiency
  []
 
-[44]
+[41]
 Chapter 10.
-[45
+[42
 
-] [46] [47] [48] [49] [50]
+] [43] [44] [45] [46] [47]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-632.
+630.
  (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -783,7 +777,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
-1634.
+1632.
 
 (/usr/share/texmf/tex/latex/lm/ts1lmtt.fd
 File: ts1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -804,7 +798,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1634 \end{verbatim}
+l.1632 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -817,7 +811,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1636 Where λ
+l.1634 Where λ
                (t) is a time-dependent decay constant:
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -830,7 +824,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1638 \item t < 3 months: λ
+l.1636 \item t < 3 months: λ
                               ≈ 0.01 (1\% monthly decay)
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -843,7 +837,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1638 \item t < 3 months: λ ≈
+l.1636 \item t < 3 months: λ ≈
                                   0.01 (1\% monthly decay)
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -856,7 +850,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1639 \item t = 3-12 months: λ
+l.1637 \item t = 3-12 months: λ
                                  ≈ 0.05 (5\% monthly decay)
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -869,7 +863,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1639 \item t = 3-12 months: λ ≈
+l.1637 \item t = 3-12 months: λ ≈
                                      0.05 (5\% monthly decay)
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -882,7 +876,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1640 \item t > 12 months: λ
+l.1638 \item t > 12 months: λ
                                ≈ 0.10 (10\% monthly decay)
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -895,40 +889,43 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1640 \item t > 12 months: λ ≈
+l.1638 \item t > 12 months: λ ≈
                                    0.10 (10\% monthly decay)
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[51] [52] [53] [54] [55] [56] [57] [58]
+[48] [49] [50] [51] [52] [53] [54] [55]
 Chapter 11.
+[56
+
+] [57] [58]
+Chapter 12.
 [59
 
-] [60] [61]
-Chapter 12.
-[62
-
-] [63] [64] [65]
+] [60] [61] [62]
 Chapter 13.
-[66
+[63
 
-] [67] [68] [69] [70]
+] [64] [65] [66] [67]
 Chapter 14.
-[71
+[68
 
-] [72]
+] [69]
 Chapter 15.
+[70
+
+] [71] [72]
+Chapter 16.
 [73
 
-] [74] [75]
-Chapter 16.
-[76
-
-] [77] [78] [79]
+] [74] [75] [76]
 Chapter 17.
-[80
+[77
 
-] [81] [82] [83]
+] [78] [79] [80]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 2935.
+
 
 ! LaTeX Error: Command \item invalid in math mode.
 
@@ -936,7 +933,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2938 \item
+l.2936 \item
              \textbf{Global banking infrastructure}: $500 billion annually i...
 
 Try typing  <return>  to proceed.
@@ -949,7 +946,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2938 \item \textbf
+l.2936 \item \textbf
                     {Global banking infrastructure}: $500 billion annually i...
 
 Try typing  <return>  to proceed.
@@ -962,14 +959,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2938 \item \textbf
+l.2936 \item \textbf
                     {Global banking infrastructure}: $500 billion annually i...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (136.64925pt too wide) in paragraph at lines 2937--2939
+Overfull \hbox (136.64925pt too wide) in paragraph at lines 2935--2937
 []\T1/lmr/bx/n/10.95 (-20) US mil-i-tary bud-get\T1/lmr/m/n/10.95 (-20) : $\OT1
 /lmr/m/n/10.95 (-20) 800\OML/lmm/m/it/10.95 billionannually\OT1/lmr/m/n/10.95 (
 -20) (\OML/lmm/m/it/10.95 partlytosecuredollar[]sglobalstatus\OT1/lmr/m/n/10.95
@@ -983,7 +980,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2940 \end{itemize}
+l.2938 \end{itemize}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -995,7 +992,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2940 \end{itemize}
+l.2938 \end{itemize}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1007,7 +1004,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2940 \end{itemize}
+l.2938 \end{itemize}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1015,7 +1012,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2940 \end{itemize}
+l.2938 \end{itemize}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1023,13 +1020,13 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[84{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/d
+[81{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/d
 vips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]
-[85] [86] [87] [88] [89] [90]
+[82] [83] [84] [85] [86] [87]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.3196 
+l.3194 
        
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1037,7 +1034,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.3206 
+l.3204 
        
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1047,17 +1044,17 @@ Runaway argument?
 ! Paragraph ended before \MT@temp was complete.
 <to be read again> 
                    \par 
-l.3218 
+l.3216 
        
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-[91]
+[88]
 ! Extra }, or forgotten $.
 <recently read> \egroup 
                         
-l.3275 \textbf{If Bitcoin reaches $500,000:}
+l.3273 \textbf{If Bitcoin reaches $500,000:}
                                             
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1068,7 +1065,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.3277 \item
+l.3275 \item
              \textbf{Gold market must shrink} (investors switch from physica...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1076,7 +1073,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.3277 \item
+l.3275 \item
              \textbf{Gold market must shrink} (investors switch from physica...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1087,7 +1084,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.3277 \item
+l.3275 \item
              \textbf{Gold market must shrink} (investors switch from physica...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1095,20 +1092,20 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[92] [93]
+[89] [90]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.3348 
+l.3346 
        
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[94]
+[91]
 Chapter 18.
-[95
+[92
 
-] [96]
+] [93]
 
 ! LaTeX Error: Command \item invalid in math mode.
 
@@ -1116,7 +1113,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3476 \item
+l.3474 \item
              \textbf{2024 performance}: $545 million revenue, 97 million act...
 
 Try typing  <return>  to proceed.
@@ -1129,7 +1126,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3476 \item \textbf
+l.3474 \item \textbf
                     {2024 performance}: $545 million revenue, 97 million act...
 
 Try typing  <return>  to proceed.
@@ -1142,13 +1139,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3476 \item \textbf
+l.3474 \item \textbf
                     {2024 performance}: $545 million revenue, 97 million act...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[97]
+[94]
 
 ! LaTeX Error: Command \item invalid in math mode.
 
@@ -1156,7 +1153,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3483 \item
+l.3481 \item
              \textbf{Daily spending}: 6.5 million dollars per day in early w...
 
 Try typing  <return>  to proceed.
@@ -1169,7 +1166,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3483 \item \textbf
+l.3481 \item \textbf
                     {Daily spending}: 6.5 million dollars per day in early w...
 
 Try typing  <return>  to proceed.
@@ -1182,7 +1179,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3483 \item \textbf
+l.3481 \item \textbf
                     {Daily spending}: 6.5 million dollars per day in early w...
 
 Try typing  <return>  to proceed.
@@ -1195,7 +1192,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3484 \item
+l.3482 \item
              \textbf{Total impact}: Contributed to Pokémon Company's record...
 
 Try typing  <return>  to proceed.
@@ -1204,7 +1201,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.3484 \item \textbf
+l.3482 \item \textbf
                     {Total impact}: Contributed to Pokémon Company's record...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1212,7 +1209,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.3484 \item \textbf
+l.3482 \item \textbf
                     {Total impact}: Contributed to Pokémon Company's record...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1221,7 +1218,7 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (76.05762pt too wide) in paragraph at lines 3482--3484
+Overfull \hbox (76.05762pt too wide) in paragraph at lines 3480--3482
 []\T1/lmr/bx/n/10.95 (-20) Record break-ing\T1/lmr/m/n/10.95 (-20) : $\OT1/lmr/
 m/n/10.95 (-20) 100\OML/lmm/m/it/10.95 millionrevenuein\OT1/lmr/m/n/10.95 (-20)
  17\OML/lmm/m/it/10.95 days[] \OT1/lmr/m/n/10.95 (-20) : 6\OML/lmm/m/it/10.95 :
@@ -1232,7 +1229,7 @@ m/n/10.95 (-20) 100\OML/lmm/m/it/10.95 millionrevenuein\OT1/lmr/m/n/10.95 (-20)
 ! Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.3484 \item \textbf
+l.3482 \item \textbf
                     {Total impact}: Contributed to Pokémon Company's record...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1247,7 +1244,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3485 \end{itemize}
+l.3483 \end{itemize}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1259,7 +1256,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3485 \end{itemize}
+l.3483 \end{itemize}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1271,7 +1268,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3485 \end{itemize}
+l.3483 \end{itemize}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1279,7 +1276,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.3485 \end{itemize}
+l.3483 \end{itemize}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1287,20 +1284,76 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109]
+[95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
 Chapter 19.
-[110
+[107
 
 ]
-Overfull \hbox (177.87543pt too wide) in paragraph at lines 4094--4095
+Overfull \hbox (177.87543pt too wide) in paragraph at lines 4092--4093
 []\T1/lmr/bx/n/10.95 (-20) Modern Ap-pli-ca-tion\T1/lmr/m/n/10.95 (-20) : A bil
 -lion-aire do-nat-ing $\OT1/lmr/m/n/10.95 (-20) 1\OML/lmm/m/it/10.95 millionmig
 htmovemanypointersbutrepresentlittleactualsacrifice:Aminimum \OMS/lmsy/m/n/10.9
 5 ^^@
  []
 
-[111] [112] [113] [114]
+[108] [109] [110] [111]
 Appendix A.
+
+! LaTeX Error: Unicode character τ (U+03C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4245 \textbf{Definition 1 (Trust).} Trust τ
+                                               ∈ ℝ₊ is the fundamental...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ∈ (U+2208)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4245 \textbf{Definition 1 (Trust).} Trust τ ∈
+                                                   ℝ₊ is the fundamental...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ℝ (U+211D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4245 ...{Definition 1 (Trust).} Trust τ ∈ ℝ
+                                                  ₊ is the fundamental uni...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₊ (U+208A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4245 ...finition 1 (Trust).} Trust τ ∈ ℝ₊
+                                                   is the fundamental unit o...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
 
 ! LaTeX Error: Unicode character ₚ (U+209A)
                not set up for use with LaTeX.
@@ -1309,7 +1362,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4251 \item Potential state: vₚ
+l.4249 \item Potential state: vₚ
                                    - stored, latent trust capacity
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1322,7 +1375,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4252 \item Kinetic state: vₖ
+l.4250 \item Kinetic state: vₖ
                                  - actively mobilized trust in exchange
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1335,7 +1388,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4255 ...ition 3 (Total System Value).} TSV = ∫
+l.4253 ...ition 3 (Total System Value).} TSV = ∫
                                                   ∫ τ(i,j,t) di dj, where...
 
 You may provide a definition with
@@ -1349,7 +1402,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4255 ...on 3 (Total System Value).} TSV = ∫∫
+l.4253 ...on 3 (Total System Value).} TSV = ∫∫
                                                    τ(i,j,t) di dj, where τ...
 
 You may provide a definition with
@@ -1363,7 +1416,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4255 ...3 (Total System Value).} TSV = ∫∫ τ
+l.4253 ...3 (Total System Value).} TSV = ∫∫ τ
                                                   (i,j,t) di dj, where τ(i,...
 
 You may provide a definition with
@@ -1377,7 +1430,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4255 ...} TSV = ∫∫ τ(i,j,t) di dj, where τ
+l.4253 ...} TSV = ∫∫ τ(i,j,t) di dj, where τ
                                                   (i,j,t) represents trust b...
 
 You may provide a definition with
@@ -1391,7 +1444,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4257 ...ition 4 (Total System Honesty).} TSH ∈
+l.4255 ...ition 4 (Total System Honesty).} TSH ∈
                                                    [0,1] represents the fide...
 
 You may provide a definition with
@@ -1405,7 +1458,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4263 ...ation).} For any closed system: V = Vₚ
+l.4261 ...ation).} For any closed system: V = Vₚ
                                                    + Vₖ
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1418,7 +1471,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4263 ...} For any closed system: V = Vₚ + Vₖ
+l.4261 ...} For any closed system: V = Vₚ + Vₖ
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1431,7 +1484,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4265 \textbf{Axiom 3 (Trust Non-Negativity).} τ
+l.4263 \textbf{Axiom 3 (Trust Non-Negativity).} τ
                                                    ≥ 0 for all trust relat...
 
 You may provide a definition with
@@ -1445,7 +1498,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4265 ...{Axiom 3 (Trust Non-Negativity).} τ ≥
+l.4263 ...{Axiom 3 (Trust Non-Negativity).} τ ≥
                                                    0 for all trust relations...
 
 You may provide a definition with
@@ -1459,7 +1512,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4267 ...al and kinetic states incurs friction φ
+l.4265 ...al and kinetic states incurs friction φ
                                                    ∈ (0,1).
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1472,12 +1525,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4267 ...nd kinetic states incurs friction φ ∈
+l.4265 ...nd kinetic states incurs friction φ ∈
                                                    (0,1).
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[115
+[112
 
 ]
 
@@ -1488,7 +1541,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1501,7 +1554,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1514,7 +1567,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1527,7 +1580,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1540,7 +1593,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1553,7 +1606,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1566,7 +1619,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1579,7 +1632,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1592,7 +1645,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1605,7 +1658,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1618,7 +1671,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1631,7 +1684,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1644,7 +1697,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1657,7 +1710,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1670,7 +1723,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1683,7 +1736,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1696,7 +1749,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1709,7 +1762,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4278 \end{verbatim}
+l.4276 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1722,7 +1775,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4282 \item α
+l.4280 \item α
                (τ): trust-dependent mobilization rate
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1735,7 +1788,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4282 \item α
+l.4280 \item α
                (τ): trust-dependent mobilization rate
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1748,7 +1801,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4282 \item α(τ
+l.4280 \item α(τ
                   ): trust-dependent mobilization rate
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1761,7 +1814,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4283 \item β
+l.4281 \item β
                (TSH): honesty-dependent storage rate
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1774,7 +1827,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4283 \item β
+l.4281 \item β
                (TSH): honesty-dependent storage rate
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1787,7 +1840,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4284 \item φ
+l.4282 \item φ
                ₁, φ₂: friction coefficients
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1800,7 +1853,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4284 \item φ
+l.4282 \item φ
                ₁, φ₂: friction coefficients
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1813,7 +1866,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4284 \item φ₁
+l.4282 \item φ₁
                   , φ₂: friction coefficients
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1826,7 +1879,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4284 \item φ₁, φ
+l.4282 \item φ₁, φ
                       ₂: friction coefficients
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1839,7 +1892,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4284 \item φ₁, φ₂
+l.4282 \item φ₁, φ₂
                          : friction coefficients
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1852,7 +1905,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4293 \end{verbatim}
+l.4291 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1865,7 +1918,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4293 \end{verbatim}
+l.4291 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1878,7 +1931,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4293 \end{verbatim}
+l.4291 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1891,7 +1944,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4295 ... A monetary system is stable iff MMR ∈
+l.4293 ... A monetary system is stable iff MMR ∈
                                                    [MMR_min, MMR_max], where...
 
 You may provide a definition with
@@ -1900,7 +1953,7 @@ You may provide a definition with
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.4295 ...etary system is stable iff MMR ∈ [MMR_
+l.4293 ...etary system is stable iff MMR ∈ [MMR_
                                                   min, MMR_max], where bound...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1908,13 +1961,13 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.4296 
+l.4294 
        
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (170.30382pt too wide) in paragraph at lines 4295--4296
+Overfull \hbox (170.30382pt too wide) in paragraph at lines 4293--4294
 []\T1/lmr/bx/n/10.95 (-20) Proposition 1. \T1/lmr/m/n/10.95 (-20) A mon-e-tary 
 sys-tem is sta-ble iff MMR  [MMR$[]\OML/lmm/m/it/10.95 in; MMR[]ax\OT1/lmr/m/n/
 10.95 (-20) ]\OML/lmm/m/it/10.95 ; whereboundsdependonsystemictrustparameters:$
@@ -1929,7 +1982,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4297 ...g measurement capacity. When MMR → ∞
+l.4295 ...g measurement capacity. When MMR → ∞
                                                   , all value becomes potent...
 
 You may provide a definition with
@@ -1943,7 +1996,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4297 ...mes potential, eliminating exchange. □
+l.4295 ...mes potential, eliminating exchange. □
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1956,7 +2009,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4305 | ∑
+l.4303 | ∑
             ᵢ Mᵢₚ · wᵢ | ∑ⱼ Aⱼ · pⱼ |
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1969,7 +2022,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4305 | ∑ᵢ
+l.4303 | ∑ᵢ
                 Mᵢₚ · wᵢ | ∑ⱼ Aⱼ · pⱼ |
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1982,7 +2035,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4305 | ∑ᵢ Mᵢ
+l.4303 | ∑ᵢ Mᵢ
                     ₚ · wᵢ | ∑ⱼ Aⱼ · pⱼ |
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1995,7 +2048,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4305 | ∑ᵢ Mᵢₚ
+l.4303 | ∑ᵢ Mᵢₚ
                         · wᵢ | ∑ⱼ Aⱼ · pⱼ |
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2008,7 +2061,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4305 | ∑ᵢ Mᵢₚ · wᵢ
+l.4303 | ∑ᵢ Mᵢₚ · wᵢ
                                 | ∑ⱼ Aⱼ · pⱼ |
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2021,7 +2074,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4305 | ∑ᵢ Mᵢₚ · wᵢ | ∑
+l.4303 | ∑ᵢ Mᵢₚ · wᵢ | ∑
                                      ⱼ Aⱼ · pⱼ |
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2034,7 +2087,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4305 | ∑ᵢ Mᵢₚ · wᵢ | ∑ⱼ
+l.4303 | ∑ᵢ Mᵢₚ · wᵢ | ∑ⱼ
                                          Aⱼ · pⱼ |
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2047,7 +2100,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4305 | ∑ᵢ Mᵢₚ · wᵢ | ∑ⱼ Aⱼ
+l.4303 | ∑ᵢ Mᵢₚ · wᵢ | ∑ⱼ Aⱼ
                                               · pⱼ |
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2060,7 +2113,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4305 ...�� Mᵢₚ · wᵢ | ∑ⱼ Aⱼ · pⱼ
+l.4303 ...�� Mᵢₚ · wᵢ | ∑ⱼ Aⱼ · pⱼ
                                                    |
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2073,7 +2126,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4309 \item Mᵢ
+l.4307 \item Mᵢ
                  ₚ: potential money of type i
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2086,7 +2139,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4309 \item Mᵢₚ
+l.4307 \item Mᵢₚ
                     : potential money of type i
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2099,7 +2152,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4310 \item wᵢ
+l.4308 \item wᵢ
                  : trust weight of money type i
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2112,7 +2165,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4311 \item Aⱼ
+l.4309 \item Aⱼ
                  : asset j quantity
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2125,7 +2178,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4312 \item pⱼ
+l.4310 \item pⱼ
                  : price of asset j
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2138,7 +2191,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4319 \end{verbatim}
+l.4317 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2151,7 +2204,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4319 \end{verbatim}
+l.4317 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2164,7 +2217,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4319 \end{verbatim}
+l.4317 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2177,7 +2230,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4319 \end{verbatim}
+l.4317 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2190,7 +2243,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4319 \end{verbatim}
+l.4317 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2203,12 +2256,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4319 \end{verbatim}
+l.4317 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[116]
+[113]
 
 ! LaTeX Error: Unicode character τ (U+03C4)
                not set up for use with LaTeX.
@@ -2217,7 +2270,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4331 \end{verbatim}
+l.4329 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2230,7 +2283,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4331 \end{verbatim}
+l.4329 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2243,7 +2296,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4331 \end{verbatim}
+l.4329 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2256,7 +2309,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4331 \end{verbatim}
+l.4329 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2269,7 +2322,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4335 \item J\_τ
+l.4333 \item J\_τ
                   : trust current density
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2282,7 +2335,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4347 \end{verbatim}
+l.4345 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2295,7 +2348,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4347 \end{verbatim}
+l.4345 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2308,7 +2361,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4347 \end{verbatim}
+l.4345 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2321,7 +2374,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4347 \end{verbatim}
+l.4345 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2334,7 +2387,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4351 \item k₀
+l.4349 \item k₀
                  : base transfer rate
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2347,7 +2400,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4353 \item σ
+l.4351 \item σ
                \_\{A,B\}: systemic friction between A and B
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2360,7 +2413,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4353 \item σ
+l.4351 \item σ
                \_\{A,B\}: systemic friction between A and B
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2368,7 +2421,7 @@ You may provide a definition with
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.4356 ...ion accelerates super-linearly when TSH_
+l.4354 ...ion accelerates super-linearly when TSH_
                                                   A/TSH_B > θ_critical.
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2381,7 +2434,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4356 ...tes super-linearly when TSH_A/TSH_B > θ
+l.4354 ...tes super-linearly when TSH_A/TSH_B > θ
                                                   _critical.
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2389,7 +2442,7 @@ You may provide a definition with
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.4357 
+l.4355 
        
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2402,7 +2455,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4368 \end{verbatim}
+l.4366 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2415,7 +2468,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4368 \end{verbatim}
+l.4366 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2428,7 +2481,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4368 \end{verbatim}
+l.4366 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2441,12 +2494,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4368 \end{verbatim}
+l.4366 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[117]
+[114]
 
 ! LaTeX Error: Unicode character ∉ (U+2209)
                not set up for use with LaTeX.
@@ -2455,7 +2508,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4390 2. MMR ∉
+l.4388 2. MMR ∉
                   [MMR\_min, MMR\_max], OR
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2468,7 +2521,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4393 3. ∂
+l.4391 3. ∂
              ²TSV/∂t² < -λ·TSV (accelerating trust destruction)
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2481,7 +2534,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4393 3. ∂²TSV/∂
+l.4391 3. ∂²TSV/∂
                       t² < -λ·TSV (accelerating trust destruction)
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2494,7 +2547,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4393 3. ∂²TSV/∂t² < -λ
+l.4391 3. ∂²TSV/∂t² < -λ
                                ·TSV (accelerating trust destruction)
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2507,7 +2560,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4408 \end{verbatim}
+l.4406 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2520,7 +2573,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4408 \end{verbatim}
+l.4406 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2533,7 +2586,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4418 \end{verbatim}
+l.4416 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2546,7 +2599,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4418 \end{verbatim}
+l.4416 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2559,7 +2612,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4418 \end{verbatim}
+l.4416 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2572,7 +2625,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4418 \end{verbatim}
+l.4416 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2585,7 +2638,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4418 \end{verbatim}
+l.4416 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2598,7 +2651,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4420 ...c) is weighted by both personal trust τ
+l.4418 ...c) is weighted by both personal trust τ
                                                   ᵢ and systemic honesty.
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2611,7 +2664,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4420 ...is weighted by both personal trust τᵢ
+l.4418 ...is weighted by both personal trust τᵢ
                                                    and systemic honesty.
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2624,7 +2677,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4431 \end{verbatim}
+l.4429 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2637,7 +2690,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4431 \end{verbatim}
+l.4429 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2650,7 +2703,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4431 \end{verbatim}
+l.4429 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2663,7 +2716,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4431 \end{verbatim}
+l.4429 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2676,7 +2729,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4443 ...ediction}: P(collapse) = F(TSH, MMR, ∂
+l.4441 ...ediction}: P(collapse) = F(TSH, MMR, ∂
                                                   ²TSV/∂t²)
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2689,7 +2742,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4443 ...: P(collapse) = F(TSH, MMR, ∂²TSV/∂
+l.4441 ...: P(collapse) = F(TSH, MMR, ∂²TSV/∂
                                                   t²)
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2702,7 +2755,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4446 ...tbf{Renewal Speed}: Time to recovery ∝
+l.4444 ...tbf{Renewal Speed}: Time to recovery ∝
                                                    M_c^(-γ)
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2710,7 +2763,7 @@ You may provide a definition with
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.4446 ...{Renewal Speed}: Time to recovery ∝ M_
+l.4444 ...{Renewal Speed}: Time to recovery ∝ M_
                                                   c^(-γ)
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2723,7 +2776,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4446 ...al Speed}: Time to recovery ∝ M_c^(-γ
+l.4444 ...al Speed}: Time to recovery ∝ M_c^(-γ
                                                   )
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2731,7 +2784,7 @@ You may provide a definition with
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.4447 
+l.4445 
        
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2744,7 +2797,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4449 ...ue Conservation}: In closed systems, ∆
+l.4447 ...ue Conservation}: In closed systems, ∆
                                                   (Vₚ + Vₖ) = -∫φ dt
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2757,7 +2810,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4449 ...nservation}: In closed systems, ∆(Vₚ
+l.4447 ...nservation}: In closed systems, ∆(Vₚ
                                                    + Vₖ) = -∫φ dt
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2770,7 +2823,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4449 ...ion}: In closed systems, ∆(Vₚ + Vₖ
+l.4447 ...ion}: In closed systems, ∆(Vₚ + Vₖ
                                                   ) = -∫φ dt
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2783,7 +2836,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4449 ... closed systems, ∆(Vₚ + Vₖ) = -∫
+l.4447 ... closed systems, ∆(Vₚ + Vₖ) = -∫
                                                   φ dt
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2796,12 +2849,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4449 ...losed systems, ∆(Vₚ + Vₖ) = -∫φ
+l.4447 ...losed systems, ∆(Vₚ + Vₖ) = -∫φ
                                                    dt
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[118]
+[115]
 
 ! LaTeX Error: Unicode character τ (U+03C4)
                not set up for use with LaTeX.
@@ -2810,7 +2863,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2823,7 +2876,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2836,7 +2889,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2849,7 +2902,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2862,7 +2915,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2875,7 +2928,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2888,7 +2941,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2901,7 +2954,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2914,7 +2967,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2927,7 +2980,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2940,7 +2993,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2953,7 +3006,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2966,7 +3019,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2979,7 +3032,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -2992,7 +3045,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -3005,7 +3058,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -3018,7 +3071,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4460 \end{verbatim}
+l.4458 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -3031,7 +3084,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4462 Where Rᵢ
+l.4460 Where Rᵢ
                  ⱼ represents realized returns from trust relationship.
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -3044,7 +3097,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4462 Where Rᵢⱼ
+l.4460 Where Rᵢⱼ
                      represents realized returns from trust relationship.
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -3057,7 +3110,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4470 \end{verbatim}
+l.4468 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -3070,7 +3123,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4470 \end{verbatim}
+l.4468 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -3083,7 +3136,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4470 \end{verbatim}
+l.4468 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -3096,7 +3149,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4470 \end{verbatim}
+l.4468 \end{verbatim}
                      
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -3109,28 +3162,35 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4480 ...al calibration of friction parameters φ
+l.4478 ...al calibration of friction parameters φ
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-No file dset_book.bbl.
-[119] (./dset_book.aux)
+No file dset_book_v2.bbl.
+[116] (./dset_book_v2.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-Package rerunfilecheck Info: File `dset_book.out' has not changed.
-(rerunfilecheck)             Checksum: 9DA83FB746163686AC179BC7F17537BB;23660.
+
+
+Package rerunfilecheck Warning: File `dset_book_v2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `dset_book_v2.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  9DA83FB746163686AC179BC7F17537BB;23660.
  ) 
 Here is how much of TeX's memory you used:
- 16044 strings out of 476182
- 248781 string characters out of 5795596
- 1941975 words of memory out of 5000000
- 37211 multiletter control sequences out of 15000+600000
+ 15925 strings out of 476182
+ 247220 string characters out of 5795596
+ 1934975 words of memory out of 5000000
+ 37103 multiletter control sequences out of 15000+600000
  630843 words of font info for 199 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,12n,79p,1006b,707s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1009b,707s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/pu
@@ -3138,12 +3198,11 @@ blic/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.p
-fb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on dset_book.pdf (120 pages, 512925 bytes).
+fb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
+Output written on dset_book_v2.pdf (117 pages, 492881 bytes).
 PDF statistics:
- 1330 PDF objects out of 1440 (max. 8388607)
- 1167 compressed objects within 12 object streams
- 352 named destinations out of 1000 (max. 500000)
- 40785 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 884 PDF objects out of 1000 (max. 8388607)
+ 730 compressed objects within 8 object streams
+ 349 named destinations out of 1000 (max. 500000)
+ 39937 words of extra memory for PDF output out of 42996 (max. 10000000)
 
