@@ -54,4 +54,4 @@ These breakdowns serve as cautionary tales and emphasize the importance of disce
 
 Ultimately, the lifecycle of value reveals the **temporal nature** of economic and moral worth. Nothing of value remains fixed indefinitely. Every asset, every trust, every fortune must be stewarded through time, risk, and relational terrain. The best systems acknowledge this fluidity and build in rituals of renewal—sabbaths, audits, rites of passage—that help convert kinetic exhaust into potential wisdom.
 
-In later chapters, we will explore how different schools of economics interpret or ignore this lifecycle. For now, we establish it as a foundational rhythm: the pulse of value as it breathes, moves, rests, and transforms.
+In later chapters, we will explore how different schools of economics interpret or ignore this lifecycle. For now, we establish it as a foundational rhythm: the pulse of value as it breathes, moves, rests, and transforms. Like oxygen circulating through a living system, trust must flow continuously to keep value alive and healthy.

@@ -41,7 +41,9 @@ Gold serves as a powerful illustration. It is both a measure of value and an obj
 
 ## Trust as Binding Energy
 
-Trust is central to this framework. It acts as the binding energy in all value systems. A society functions economically not merely because money exists, but because its members believe in the system that issues and honors that money. Trust is the invisible infrastructure behind commerce. Its storage occurs in institutions, reputations, and systems of law. Its release occurs in the spontaneous, everyday acts of exchange.
+Trust is central to this framework—it is the oxygen of economics: you never think about it when it's working, but nothing survives without it. Trust acts as the binding energy in all value systems. A society functions economically not merely because money exists, but because its members believe in the system that issues and honors that money.
+
+Just as oxygen enables cellular metabolism and circulation, trust enables economic circulation and value conversion. Its storage occurs in institutions, reputations, and systems of law. Its release occurs in the spontaneous, everyday acts of exchange. And just as oxygen deprivation leads to predictable tissue death, trust collapse triggers predictable patterns of economic decay.
 
 It is crucial to distinguish between:
 - **Stored trust** — latent belief in the system

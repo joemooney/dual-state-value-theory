@@ -141,12 +141,12 @@ When pointer systems fail, a clock starts ticking. The real economy—factories,
 
 ### The Biological Analogy: Economic Hypoxia
 
-The best analogy is **oxygen deprivation to tissues**. When the heart stops (pointer system fails), the body's cells (economic units) don't die immediately. They have:
+Trust is the oxygen of economics—and like oxygen deprivation to living tissue, trust collapse triggers predictable stages of decay. When the circulatory system fails (pointer system breaks down), economic units don't die immediately. They have:
 - Stored ATP (working capital reserves)
 - Anaerobic metabolism (barter capability)
 - Protective hibernation (reduced activity states)
 
-But without circulation, damage accumulates rapidly and exponentially.
+But just as no tissue can survive indefinitely without oxygen, no economy can function long-term without trust circulation. Damage accumulates rapidly and exponentially.
 
 ### The Cascade of Real Damage: A Timeline
 
