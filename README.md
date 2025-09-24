@@ -104,4 +104,4 @@ You are free to share and adapt this material with appropriate attribution.
 
 ---
 
-*"Trust is not merely a factor in economic exchange but the essential substrate from which all value emerges, transforms, and occasionally, transcends."*
+*"Trust is the oxygen of economics: you never think about it when it's working, but nothing survives without it."*
