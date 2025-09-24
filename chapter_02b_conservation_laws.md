@@ -212,6 +212,15 @@ Understanding conservation laws transforms investment strategy:
 
 Total portfolio value across all investors remained constant—only distribution changed.
 
+**Example 10b: The Bitcoin Security Migration (2020-2022)**
+Bitcoin's rise from $10,000 to $69,000 wasn't value creation—it was security-seeking capital migrating from traditional stores of value:
+- Gold ETFs experienced massive outflows ($9 billion in 2021)
+- Bond allocations decreased as institutions sought inflation hedges
+- Cash positions reduced as investors sought yield alternatives
+- Even real estate saw competition from Bitcoin as "digital property"
+
+The conservation principle held: $1 trillion didn't appear from nothing—it migrated from other asset classes toward the new "indestructible vault" technology. When Bitcoin crashed back to $15,000, those same pointers scattered back to bonds, gold, and cash.
+
 ### For Policymakers
 
 **Stimulus Doesn't Create, It Redirects**: Government spending doesn't create value—it redirects pointers from future to present, from savers to spenders, from one sector to another.

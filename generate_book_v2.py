@@ -40,6 +40,7 @@ class DSETBookGenerator:
             ("chapter_14_weight_of_wealth.md", "Chapter 14: The Weight of Wealth"),
             ("chapter_15_collectivism_vs_individualism.md", "Chapter 15: Collectivism vs. Individualism"),
             ("chapter_16_personal_action.md", "Chapter 16: Personal Action"),
+            ("chapter_17_bitcoin_revolution.md", "Chapter 17: The Bitcoin Revolution"),
             ("chapter_19_theology_of_value.md", "Chapter 19: Theology of Value"),
             ("appendix_01.md", "Appendix A: Mathematical Formalism")
         ]

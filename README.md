@@ -41,6 +41,9 @@ The theory proposes that:
 - [`chapter_15_collectivism_vs_individualism.md`](chapter_15_collectivism_vs_individualism.md) - Political trust dynamics
 - [`chapter_16_personal_action.md`](chapter_16_personal_action.md) - Individual ethics in trust economies
 
+### Case Studies
+- [`chapter_17_bitcoin_revolution.md`](chapter_17_bitcoin_revolution.md) - Digital scarcity, security vaults, and the future of money
+
 ### Foundations
 - [`chapter_19_theology_of_value.md`](chapter_19_theology_of_value.md) - Transcendent trust foundations
 - [`appendix_01.md`](appendix_01.md) - Economic schools analysis
@@ -98,7 +101,7 @@ The framework offers both diagnostic tools for understanding systemic dysfunctio
 - **[Single-Page Web Version](https://joemooney.github.io/dual-state-value-theory/complete-book.html)** - Entire book on one page
 
 ### 📄 Download PDF
-- **[Professional PDF Edition](output/dset_book.pdf)** - 87 pages, formatted for reading and printing (404KB)
+- **[Professional PDF Edition](output/dset_book.pdf)** - 104 pages, formatted for reading and printing (457KB)
 
 ### 💻 Source Code
 - **[GitHub Repository](https://github.com/joemooney/dual-state-value-theory)** - Complete source, build scripts, and development history

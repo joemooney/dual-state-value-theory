@@ -19,7 +19,7 @@ This site presents a comprehensive exploration of **Dual State Economic Theory**
 **Choose your preferred format:**
 
 - **[💻 Single-Page Web Version](complete-book.html)** - Read the entire book on one scrollable page
-- **[📄 Download PDF](output/dset_book.pdf)** - Professional format for printing or offline reading (404KB)
+- **[📄 Download PDF](output/dset_book.pdf)** - Professional format for printing or offline reading (457KB)
 - **[🔗 Multi-Chapter Navigation](#navigation)** - Browse individual chapters below
 
 ## Core Thesis
@@ -55,7 +55,10 @@ This fundamental equation links economic value directly to moral integrity, prop
 - [Chapter 15: Collectivism vs Individualism](chapter_15_collectivism_vs_individualism.html) - Political dynamics
 - [Chapter 16: Personal Action](chapter_16_personal_action.html) - Individual ethics
 
-### **Part V: Foundations**
+### **Part V: Case Studies**
+- [Chapter 17: The Bitcoin Revolution](chapter_17_bitcoin_revolution.html) - Digital scarcity and security vaults
+
+### **Part VI: Foundations**
 - [Chapter 19: Theology of Value](chapter_19_theology_of_value.html) - Transcendent trust foundations
 - [Appendix: Economic Schools](appendix_01.html) - Comparative analysis
 
