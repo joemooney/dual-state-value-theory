@@ -41,6 +41,7 @@ class DSETBookGenerator:
             ("chapter_15_collectivism_vs_individualism.md", "Chapter 15: Collectivism vs. Individualism"),
             ("chapter_16_personal_action.md", "Chapter 16: Personal Action"),
             ("chapter_17_bitcoin_revolution.md", "Chapter 17: The Bitcoin Revolution"),
+            ("chapter_18_pokemon_economy.md", "Chapter 18: The Pokémon Economy"),
             ("chapter_19_theology_of_value.md", "Chapter 19: Theology of Value"),
             ("appendix_01.md", "Appendix A: Mathematical Formalism")
         ]

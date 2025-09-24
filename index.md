@@ -19,7 +19,7 @@ This site presents a comprehensive exploration of **Dual State Economic Theory**
 **Choose your preferred format:**
 
 - **[💻 Single-Page Web Version](complete-book.html)** - Read the entire book on one scrollable page
-- **[📄 Download PDF](output/dset_book.pdf)** - Professional format for printing or offline reading (457KB)
+- **[📄 Download PDF](output/dset_book.pdf)** - Professional format for printing or offline reading (487KB)
 - **[🔗 Multi-Chapter Navigation](#navigation)** - Browse individual chapters below
 
 ## Core Thesis
@@ -57,6 +57,7 @@ This fundamental equation links economic value directly to moral integrity, prop
 
 ### **Part V: Case Studies**
 - [Chapter 17: The Bitcoin Revolution](chapter_17_bitcoin_revolution.html) - Digital scarcity and security vaults
+- [Chapter 18: The Pokémon Economy](chapter_18_pokemon_economy.html) - Nostalgia economics and cultural memory as value
 
 ### **Part VI: Foundations**
 - [Chapter 19: Theology of Value](chapter_19_theology_of_value.html) - Transcendent trust foundations
