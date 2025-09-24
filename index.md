@@ -1,10 +1,10 @@
 ---
 layout: home
-title: "The Dual-State Value Theory"
+title: "Dual State Economic Theory"
 ---
 
-# The Dual-State Value Theory
-**A Framework for Trust, Value, and Human Economics**
+# Dual State Economic Theory
+**A New Lens for Understanding Value and Trust**
 
 *By Joseph Patrick Mooney*
 
@@ -12,14 +12,14 @@ title: "The Dual-State Value Theory"
 
 ## Welcome
 
-This site presents a comprehensive exploration of the **Dual-State Value Theory** - a novel philosophical-economic framework that reconceptualizes how we understand trust, value, and monetary systems.
+This site presents a comprehensive exploration of **Dual State Economic Theory** - a new lens for examining how value moves between potential states (measurement systems, stored trust) and kinetic states (active exchange, realized utility) across economic systems.
 
 ## **📖 Read the Complete Book**
 
 **Choose your preferred format:**
 
 - **[💻 Single-Page Web Version](complete-book.html)** - Read the entire book on one scrollable page
-- **[📄 Download PDF](The_Dual_State_Value_Theory.pdf)** - Professional format for printing or offline reading (453KB)
+- **[📄 Download PDF](output/dset_book.pdf)** - Professional format for printing or offline reading (404KB)
 - **[🔗 Multi-Chapter Navigation](#navigation)** - Browse individual chapters below
 
 ## Core Thesis
@@ -90,7 +90,7 @@ Joseph Patrick Mooney developed this theory through collaborative exploration wi
 
 ---
 
-*"Trust is not merely a factor in economic exchange but the essential substrate from which all value emerges, transforms, and occasionally, transcends."*
+*"Trust is the oxygen of economics: you never think about it when it's working, but nothing survives without it."*
 
 ---
 

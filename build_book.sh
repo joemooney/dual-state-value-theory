@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# DSVT Book Build Script
+# DSET Book Build Script
 # Generates a professional PDF book from markdown chapters
 
 set -e  # Exit on any error
@@ -15,7 +15,7 @@ NC='\033[0m' # No Color
 # Configuration
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 OUTPUT_DIR="$SCRIPT_DIR/output"
-BOOK_NAME="dsvt_book"
+BOOK_NAME="dset_book"
 
 # Functions
 print_header() {

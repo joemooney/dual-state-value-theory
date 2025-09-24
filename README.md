@@ -91,6 +91,18 @@ This work represents original theoretical contributions at the intersection of:
 
 The framework offers both diagnostic tools for understanding systemic dysfunction and prescriptive paths for renewal and regeneration.
 
+## Access the Complete Work
+
+### 📖 Read Online
+- **[GitHub Pages Website](https://joemooney.github.io/dual-state-value-theory/)** - Complete book with navigation and search
+- **[Single-Page Web Version](https://joemooney.github.io/dual-state-value-theory/complete-book.html)** - Entire book on one page
+
+### 📄 Download PDF
+- **[Professional PDF Edition](output/dset_book.pdf)** - 87 pages, formatted for reading and printing (404KB)
+
+### 💻 Source Code
+- **[GitHub Repository](https://github.com/joemooney/dual-state-value-theory)** - Complete source, build scripts, and development history
+
 ## Development Notes
 
 This theory emerged through iterative development and collaborative exploration, representing a synthesis of insights from multiple disciplines. The work challenges purely materialist economic frameworks by integrating spiritual and moral dimensions as foundational rather than supplementary elements.
