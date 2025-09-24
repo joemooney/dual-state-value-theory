@@ -18,7 +18,7 @@ This site presents a comprehensive exploration of **Dual State Economic Theory**
 
 **Choose your preferred format:**
 
-- **[💻 Single-Page Web Version](complete-book.html)** - Read the entire book on one scrollable page
+- **[💻 Chapter Navigation](complete-book.html)** - Browse all chapters with links and summaries
 - **[📄 Download PDF](output/dset_book.pdf)** - Professional format for printing or offline reading (487KB)
 - **[🔗 Multi-Chapter Navigation](#navigation)** - Browse individual chapters below
 

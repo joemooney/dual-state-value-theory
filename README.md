@@ -99,7 +99,7 @@ The framework offers both diagnostic tools for understanding systemic dysfunctio
 
 ### 📖 Read Online
 - **[GitHub Pages Website](https://joemooney.github.io/dual-state-value-theory/)** - Complete book with navigation and search
-- **[Single-Page Web Version](https://joemooney.github.io/dual-state-value-theory/complete-book.html)** - Entire book on one page
+- **[Chapter Navigation Page](https://joemooney.github.io/dual-state-value-theory/complete-book.html)** - Browse all chapters with summaries
 
 ### 📄 Download PDF
 - **[Professional PDF Edition](output/dset_book.pdf)** - 117 pages, formatted for reading and printing (487KB)
