@@ -1,10 +1,10 @@
-# The Dual-State Value Theory: A Framework for Trust, Value, and Human Economics
+# Dual State Economic Theory: A New Lens for Understanding Value and Trust
 
 **Author:** Joseph Patrick Mooney
 
 ## Abstract
 
-This work introduces the **Dual-State Value Theory**, a novel philosophical-economic framework grounded in the metaphors of potential and kinetic states of value. It frames money, trust, and assets within a balance sheet where value is not only measured but enacted. 
+This work introduces **Dual State Economic Theory**: A new lens for examining how value moves between potential states (measurement systems, stored trust) and kinetic states (active exchange, realized utility) across economic systems. It frames money, trust, and assets within a balance sheet where value is not only measured but enacted. 
 
 The model reconciles the apparent paradox of items like gold being simultaneously measures of value and objects of valuation by distinguishing between their:
 - **Potential state** (stored/trust-backed) 
@@ -12,5 +12,5 @@ The model reconciles the apparent paradox of items like gold being simultaneousl
 
 Trust emerges as a binding energy within the system, influencing the transference, stability, and collapse of value across time. This theory attempts to integrate insights from both absolute and relativistic moral frameworks, individual vs. collective dynamics, and introduces real-world examples, spiritual parallels, and economic interpretations. 
 
-The result is a comprehensive attempt to reconceptualize monetary systems not merely as economic mechanisms but as **moral and philosophical expressions of human civilization**.
+The result is a comprehensive framework that reconceptualizes monetary systems not merely as economic mechanisms but as **moral and philosophical expressions of human civilization**.
 

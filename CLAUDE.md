@@ -4,14 +4,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This repository contains the **Dual-State Value Theory (DSVM)** - a comprehensive philosophical-economic framework that models trust, value, and monetary systems through the metaphor of potential and kinetic energy states. This is a substantial academic research project exploring the intersection of economics, philosophy, ethics, monetary theory, and theology.
+This repository contains **Dual State Economic Theory (DSET)** - a new lens for examining how value moves between potential states (measurement systems, stored trust) and kinetic states (active exchange, realized utility) across economic systems. This is a substantial academic research project exploring the intersection of economics, philosophy, ethics, monetary theory, and theology.
 
 ## Repository Structure
 
 The project consists of 19+ theoretical chapters and extensive supporting materials:
 
 ### Core Theory (Chapters 1-5)
-- `abstract.md` - Core thesis abstract introducing the Dual-State Value Theory
+- `abstract.md` - Core thesis abstract introducing Dual State Economic Theory
 - `chapter1.md` - **Foundations**: Dual-state model fundamentals, trust as binding energy, value conservation
 - `chapter2.md` - **Trust-Value Engine**: Dynamic balance sheet model, Valuation State Function (VSF)
 - `chapter3.md` - **Lifecycle of Value**: Genesis to exhaustion, transformation cycles

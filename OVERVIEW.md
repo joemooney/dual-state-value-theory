@@ -1,17 +1,17 @@
-# Dual-State Value Theory (DSVM) - Project Overview
+# Dual State Economic Theory (DSET) - Project Overview
 
 ## Vision Statement
-The Dual-State Value Theory represents a revolutionary framework for understanding economics, trust, and human value through the metaphor of potential and kinetic energy states. This comprehensive work bridges ancient wisdom and modern complexity, offering both diagnostic tools for societal dysfunction and prescriptive paths for renewal.
+Dual State Economic Theory: A new lens for examining how value moves between potential states (measurement systems, stored trust) and kinetic states (active exchange, realized utility) across economic systems. This comprehensive work bridges ancient wisdom and modern complexity, offering both diagnostic tools for societal dysfunction and prescriptive paths for renewal.
 
-## What Is DSVM?
-At its core, DSVM proposes that all value exists in one of two states:
+## What Is DSET?
+At its core, Dual State Economic Theory proposes that all value exists in one of two states:
 - **Potential Value (Vₚ)**: Stored trust, measurement capacity, dormant resources waiting for activation
 - **Kinetic Value (Vₖ)**: Active exchange, mobilized trust, realized utility flowing through systems
 
 The fundamental equation **Total System Value (TSV) = Total System Honesty (TSH)** links economic outcomes directly to moral integrity, making ethics not optional but foundational to sustainable prosperity.
 
 ## Core Innovation
-DSVM's unique contribution has evolved to include two fundamental insights:
+Dual State Economic Theory's unique contribution has evolved to include two fundamental insights:
 
 ### 1. The Pointer Theory of Money
 Money doesn't create or contain value—it merely points to it. Like a laser pointer in a dark warehouse, money indicates where we collectively agree value resides. This explains:
@@ -130,7 +130,7 @@ DSVM addresses societal challenges through:
 - **Diagnostic + Prescriptive**: Both analyzing dysfunction and providing pathways to health
 
 ### **Cross-Disciplinary Bridge**
-DSVM speaks fluently across:
+Dual State Economic Theory speaks fluently across:
 - Economics (Austrian, Keynesian, MMT schools analyzed through trust lens)
 - Philosophy (ethics, epistemology, political theory)
 - Theology (redemption dynamics, stewardship theology)
@@ -159,7 +159,7 @@ DSVM speaks fluently across:
 - **Digital Implementation**: Blockchain applications of regenerative trust principles
 - **Cultural Applications**: Cross-cultural studies of trust-value relationships
 
-## Why DSVM Matters Now
+## Why Dual State Economic Theory Matters Now
 
 In an era of:
 - **Trust Crisis**: Declining confidence in institutions, currencies, and social systems
@@ -167,7 +167,7 @@ In an era of:
 - **System Fragility**: Over-optimized systems vulnerable to shock and breakdown
 - **Moral Uncertainty**: Questions about how to live ethically in complex systems
 
-DSVM provides:
+Dual State Economic Theory provides:
 - **Diagnostic Clarity**: Understanding why systems fail and societies fragment
 - **Practical Frameworks**: Tools for building anti-fragile individuals and institutions
 - **Hope With Wisdom**: Pathways for renewal that acknowledge both human nature and transcendent purpose
@@ -183,4 +183,4 @@ The theory's power lies not in its complexity but in its synthesis: providing a 
 
 *"Trust is the glue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships." — Stephen R. Covey*
 
-*The Dual-State Value Theory builds on this wisdom to create a comprehensive framework for understanding how trust enables all value to flow, transform, and flourish — or to stagnate, distort, and collapse.*
+*Dual State Economic Theory builds on this wisdom to create a comprehensive framework for understanding how trust enables all value to flow, transform, and flourish — or to stagnate, distort, and collapse.*

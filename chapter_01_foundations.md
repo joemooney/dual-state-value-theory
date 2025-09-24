@@ -1,4 +1,4 @@
-# Chapter 1: Foundations of the Dual-State Value Theory
+# Chapter 1: Foundations of Dual State Economic Theory
 
 ## Key Concepts
 
@@ -27,7 +27,7 @@
 
 The essence of human economic life is the interaction of value and trust. At its core, value is both a practical tool and a moral abstraction. Humans have long sought ways to measure worth, both to themselves and to one another. Yet what does it mean to measure value? Is it merely the price something commands on a market, or is it a deeper concept, tied to trust, purpose, and the narratives that surround our exchanges?
 
-The Dual-State Value Theory begins with a metaphor borrowed from physics: the distinction between potential and kinetic energy. In physics, potential energy is stored energy—latent, but poised for action. Kinetic energy, in contrast, is energy in motion, the realization of potential. Applied to value, this metaphor reveals a powerful insight: economic and moral value exists in both potential and kinetic states.
+Dual State Economic Theory begins with a metaphor borrowed from physics: the distinction between potential and kinetic energy. In physics, potential energy is stored energy—latent, but poised for action. Kinetic energy, in contrast, is energy in motion, the realization of potential. Applied to value, this metaphor reveals a powerful insight: economic and moral value exists in both potential and kinetic states.
 
 ## The Dual-State Framework
 

@@ -1,12 +1,12 @@
-# The Dual-State Value Theory
+# Dual State Economic Theory
 
-**A Framework for Trust, Value, and Human Economics**
+**A New Lens for Understanding Value and Trust**
 
 *By Joseph Patrick Mooney*
 
 ## Overview
 
-This repository contains the complete development of the **Dual-State Value Theory (DSVM)** - a comprehensive philosophical-economic framework that models trust, value, and monetary systems through the metaphor of potential and kinetic energy states. 
+This repository contains the complete development of **Dual State Economic Theory (DSET)** - a new lens for examining how value moves between potential states (measurement systems, stored trust) and kinetic states (active exchange, realized utility) across economic systems. 
 
 The theory proposes that:
 - **Total System Value (TSV) = Total System Honesty (TSH)** - linking economic value directly to moral integrity

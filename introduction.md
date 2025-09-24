@@ -12,7 +12,7 @@ This reframe explains phenomena that traditional economics struggles with - why 
 
 ## The Moral-Material Unity
 
-Most economic theories either ignore ethics (treating them as externalities) or bolt them on awkwardly. DSVT makes the extraordinary claim that TSV = TSH (Total System Value = Total System Honesty), meaning moral integrity isn't optional for sustainable prosperity - it's foundational. This resolves the ancient tension between:
+Most economic theories either ignore ethics (treating them as externalities) or bolt them on awkwardly. Dual State Economic Theory makes the extraordinary claim that TSV = TSH (Total System Value = Total System Honesty), meaning moral integrity isn't optional for sustainable prosperity - it's foundational. This resolves the ancient tension between:
 
   - Material necessity and spiritual meaning
   - Individual gain and collective good
@@ -45,7 +45,7 @@ We exlore value across time - how trust compounds or decays, how moral debts acc
 
 ## Practical Mysticism
 
-Perhaps most importantly, DSVT bridges the mystical and practical without compromising either. This framework doesn't require religious belief but offers it as the deepest foundation for those who seek it:
+Perhaps most importantly, Dual State Economic Theory bridges the mystical and practical without compromising either. This framework doesn't require religious belief but offers it as the deepest foundation for those who seek it:
 
   - Atheists can use trust mechanics pragmatically
   - Believers can see divine patterns in economic systems
@@ -53,7 +53,7 @@ Perhaps most importantly, DSVT bridges the mystical and practical without compro
 
 ## Why This Matters Now
 
-We're living through a global trust crisis - in currencies, institutions, expertise, even basic facts. Traditional economic models can't explain why technically sound systems are failing while "irrational" alternatives (like Bitcoin) thrive. DSVT provides the missing piece: it's not about the technical specifications, it's about trust dynamics.
+We're living through a global trust crisis - in currencies, institutions, expertise, even basic facts. Traditional economic models can't explain why technically sound systems are failing while "irrational" alternatives (like Bitcoin) thrive. Dual State Economic Theory provides the missing piece: it's not about the technical specifications, it's about trust dynamics.
 
   This framework predicts:
   - Why fiat currencies fail despite central bank competence
@@ -63,7 +63,7 @@ We're living through a global trust crisis - in currencies, institutions, expert
 
 ## The Synthesis Achievement
 
-DSVT achieves multiple syntheses simultaneously:
+Dual State Economic Theory achieves multiple syntheses simultaneously:
 
   1. Physics + Economics: Rigorous mathematical modeling with human behavioral reality
   2. Individual + Collective: Personal responsibility within systemic analysis
