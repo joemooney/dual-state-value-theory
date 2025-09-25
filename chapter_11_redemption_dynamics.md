@@ -156,13 +156,19 @@ Organizations can measure recognition completeness through:
 
 **[Table 1: Recognition Maturity Matrix]**
 ```
-Level | Indicator | Measurement | Target Threshold
-------|-----------|--------------|------------------
-1 | Public acknowledgment | Media sentiment analysis | >70% acceptance
-2 | Leadership accountability | Executive changes | Key positions replaced
-3 | Structural diagnosis | Root cause analysis depth | 3+ causal levels
-4 | Stakeholder inclusion | Victim participation rate | >80% engaged
-5 | Moral articulation | Values statement clarity | Explicit ethical framework
+╔═══════╦══════════════════════════╦══════════════════════════════╦════════════════════════════════╗
+║ Level ║ Indicator                ║ Measurement                  ║ Target Threshold               ║
+╠═══════╬══════════════════════════╬══════════════════════════════╬════════════════════════════════╣
+║   1   ║ Public acknowledgment    ║ Media sentiment analysis     ║ >70% acceptance                ║
+╠═══════╬══════════════════════════╬══════════════════════════════╬════════════════════════════════╣
+║   2   ║ Leadership accountability║ Executive changes            ║ Key positions replaced         ║
+╠═══════╬══════════════════════════╬══════════════════════════════╬════════════════════════════════╣
+║   3   ║ Structural diagnosis     ║ Root cause analysis depth    ║ 3+ causal levels               ║
+╠═══════╬══════════════════════════╬══════════════════════════════╬════════════════════════════════╣
+║   4   ║ Stakeholder inclusion    ║ Victim participation rate    ║ >80% engaged                   ║
+╠═══════╬══════════════════════════╬══════════════════════════════╬════════════════════════════════╣
+║   5   ║ Moral articulation       ║ Values statement clarity     ║ Explicit ethical framework     ║
+╚═══════╩══════════════════════════╩══════════════════════════════╩════════════════════════════════╝
 ```
 
 ## Part III: Phase 2 - Repentance (The Turning Point)
@@ -247,13 +253,19 @@ Netflix's 2011 crisis and recovery demonstrates rapid corporate repentance:
 
 **[Table 2: Repentance Authenticity Indicators]**
 ```
-Dimension | Weak Repentance | Strong Repentance | Measurement Tool
-----------|-----------------|-------------------|------------------
-Language | "Mistakes were made" | "I/We did wrong" | Linguistic analysis
-Sacrifice | Minimal cost | Significant loss | Economic impact assessment
-Timeline | Delayed response | Immediate action | Response latency
-Scope | Limited admission | Full acknowledgment | Comprehensiveness index
-Binding | Revocable promises | Irreversible changes | Structural permanence
+╔═══════════╦═══════════════════════╦═══════════════════════╦═══════════════════════════╗
+║ Dimension ║ Weak Repentance       ║ Strong Repentance     ║ Measurement Tool          ║
+╠═══════════╬═══════════════════════╬═══════════════════════╬═══════════════════════════╣
+║ Language  ║ "Mistakes were made"  ║ "I/We did wrong"      ║ Linguistic analysis       ║
+╠═══════════╬═══════════════════════╬═══════════════════════╬═══════════════════════════╣
+║ Sacrifice ║ Minimal cost          ║ Significant loss      ║ Economic impact assessment║
+╠═══════════╬═══════════════════════╬═══════════════════════╬═══════════════════════════╣
+║ Timeline  ║ Delayed response      ║ Immediate action      ║ Response latency          ║
+╠═══════════╬═══════════════════════╬═══════════════════════╬═══════════════════════════╣
+║ Scope     ║ Limited admission     ║ Full acknowledgment   ║ Comprehensiveness index   ║
+╠═══════════╬═══════════════════════╬═══════════════════════╬═══════════════════════════╣
+║ Binding   ║ Revocable promises    ║ Irreversible changes  ║ Structural permanence     ║
+╚═══════════╩═══════════════════════╩═══════════════════════╩═══════════════════════════╝
 ```
 
 ## Part IV: Phase 3 - Recalibration (System Redesign)
@@ -319,13 +331,19 @@ Following interest-based lending crises, Islamic finance offers alternative reca
 
 **[Table 3: Recalibration Intervention Matrix]**
 ```
-System Level | Old Paradigm | New Paradigm | Implementation Tool
--------------|--------------|--------------|--------------------
-Metrics | GDP growth | Gross National Happiness | Bhutan model
-Currency | Fiat money | Programmable money | CBDCs/Smart contracts
-Governance | Representation | Participation | Digital democracy
-Corporate | Shareholder value | Stakeholder value | B-Corporation model
-Education | Standardized testing | Competency-based | Finnish model
+╔══════════════╦═══════════════════════╦═══════════════════════════╦═════════════════════════╗
+║ System Level ║ Old Paradigm          ║ New Paradigm              ║ Implementation Tool     ║
+╠══════════════╬═══════════════════════╬═══════════════════════════╬═════════════════════════╣
+║ Metrics      ║ GDP growth            ║ Gross National Happiness  ║ Bhutan model            ║
+╠══════════════╬═══════════════════════╬═══════════════════════════╬═════════════════════════╣
+║ Currency     ║ Fiat money            ║ Programmable money        ║ CBDCs/Smart contracts   ║
+╠══════════════╬═══════════════════════╬═══════════════════════════╬═════════════════════════╣
+║ Governance   ║ Representation        ║ Participation             ║ Digital democracy       ║
+╠══════════════╬═══════════════════════╬═══════════════════════════╬═════════════════════════╣
+║ Corporate    ║ Shareholder value     ║ Stakeholder value         ║ B-Corporation model     ║
+╠══════════════╬═══════════════════════╬═══════════════════════════╬═════════════════════════╣
+║ Education    ║ Standardized testing  ║ Competency-based          ║ Finnish model           ║
+╚══════════════╩═══════════════════════╩═══════════════════════════╩═════════════════════════╝
 ```
 
 ## Part V: Phase 4 - Reintegration (Weaving New Networks)
@@ -409,13 +427,19 @@ Microsoft's transformation from proprietary isolation to open-source integration
 
 **[Table 4: Successful Reintegration Strategies]**
 ```
-Context | Isolation Pattern | Integration Method | Success Metric
---------|------------------|-------------------|----------------
-Post-conflict | Ethnic segregation | Mixed institutions | Cross-group contact rate
-Post-scandal | Industry exile | Gradual re-engagement | Partnership recovery
-Post-bankruptcy | Credit exclusion | Secured transactions | Credit score improvement
-Post-prison | Social ostracism | Supported employment | Recidivism reduction
-Post-addiction | Family estrangement | Structured reconnection | Relationship restoration
+╔════════════════╦═══════════════════════╦═══════════════════════════╦═══════════════════════════╗
+║ Context        ║ Isolation Pattern     ║ Integration Method        ║ Success Metric            ║
+╠════════════════╬═══════════════════════╬═══════════════════════════╬═══════════════════════════╣
+║ Post-conflict  ║ Ethnic segregation    ║ Mixed institutions        ║ Cross-group contact rate  ║
+╠════════════════╬═══════════════════════╬═══════════════════════════╬═══════════════════════════╣
+║ Post-scandal   ║ Industry exile        ║ Gradual re-engagement     ║ Partnership recovery      ║
+╠════════════════╬═══════════════════════╬═══════════════════════════╬═══════════════════════════╣
+║ Post-bankruptcy║ Credit exclusion      ║ Secured transactions      ║ Credit score improvement  ║
+╠════════════════╬═══════════════════════╬═══════════════════════════╬═══════════════════════════╣
+║ Post-prison    ║ Social ostracism      ║ Supported employment      ║ Recidivism reduction      ║
+╠════════════════╬═══════════════════════╬═══════════════════════════╬═══════════════════════════╣
+║ Post-addiction ║ Family estrangement   ║ Structured reconnection   ║ Relationship restoration  ║
+╚════════════════╩═══════════════════════╩═══════════════════════════╩═══════════════════════════╝
 ```
 
 ## Part VI: Phase 5 - Renewal (Sustainable Transformation)
@@ -494,13 +518,22 @@ Muhammad Yunus's Grameen Bank demonstrates financial system renewal:
 
 **[Table 5: Renewal Durability Indicators]**
 ```
-Dimension | Fragile Renewal | Anti-fragile Renewal | Measurement
-----------|-----------------|---------------------|-------------
-Stress response | Breaks under pressure | Strengthens with challenge | Resilience testing
-Leadership | Single point of failure | Distributed authority | Succession depth
-Culture | Compliance-based | Values-based | Employee engagement
-Innovation | Resists change | Embraces evolution | Adaptation rate
-Memory | Forgets lessons | Institutionalizes learning | Knowledge retention
+╔═══════════════╦═════════════════════════╦════════════════════════════╦═══════════════════╗
+║ Dimension     ║ Fragile Renewal         ║ Anti-fragile Renewal       ║ Measurement       ║
+╠═══════════════╬═════════════════════════╬════════════════════════════╬═══════════════════╣
+║ Stress        ║ Breaks under pressure   ║ Strengthens with challenge ║ Resilience testing║
+║ response      ║                         ║                            ║                   ║
+╠═══════════════╬═════════════════════════╬════════════════════════════╬═══════════════════╣
+║ Leadership    ║ Single point of failure ║ Distributed authority      ║ Succession depth  ║
+╠═══════════════╬═════════════════════════╬════════════════════════════╬═══════════════════╣
+║ Culture       ║ Compliance-based        ║ Values-based               ║ Employee          ║
+║               ║                         ║                            ║ engagement        ║
+╠═══════════════╬═════════════════════════╬════════════════════════════╬═══════════════════╣
+║ Innovation    ║ Resists change          ║ Embraces evolution         ║ Adaptation rate   ║
+╠═══════════════╬═════════════════════════╬════════════════════════════╬═══════════════════╣
+║ Memory        ║ Forgets lessons         ║ Institutionalizes learning ║ Knowledge         ║
+║               ║                         ║                            ║ retention         ║
+╚═══════════════╩═════════════════════════╩════════════════════════════╩═══════════════════╝
 ```
 
 ## Part VII: Quantitative Framework for Redemption
@@ -694,14 +727,21 @@ Despite apparent reforms, many argue banks achieved only theatrical redemption:
 
 **[Table 6: Genuine vs False Redemption Indicators]**
 ```
-Aspect | False Redemption | Genuine Redemption | Detection Method
--------|-----------------|-------------------|------------------
-Speed | Rapid declarations | Gradual progress | Timeline analysis
-Cost | Minimal sacrifice | Significant loss | Economic assessment
-Scope | Limited admission | Complete acknowledgment | Comprehensiveness
-Persistence | Temporary changes | Permanent structures | Longitudinal study
-Stakeholders | Exclude critics | Include opponents | Participation audit
-Results | Perception management | Measurable outcomes | Empirical verification
+╔══════════════╦═══════════════════════╦══════════════════════════╦═══════════════════════╗
+║ Aspect       ║ False Redemption      ║ Genuine Redemption       ║ Detection Method      ║
+╠══════════════╬═══════════════════════╬══════════════════════════╬═══════════════════════╣
+║ Speed        ║ Rapid declarations    ║ Gradual progress         ║ Timeline analysis     ║
+╠══════════════╬═══════════════════════╬══════════════════════════╬═══════════════════════╣
+║ Cost         ║ Minimal sacrifice     ║ Significant loss         ║ Economic assessment   ║
+╠══════════════╬═══════════════════════╬══════════════════════════╬═══════════════════════╣
+║ Scope        ║ Limited admission     ║ Complete acknowledgment  ║ Comprehensiveness     ║
+╠══════════════╬═══════════════════════╬══════════════════════════╬═══════════════════════╣
+║ Persistence  ║ Temporary changes     ║ Permanent structures     ║ Longitudinal study    ║
+╠══════════════╬═══════════════════════╬══════════════════════════╬═══════════════════════╣
+║ Stakeholders ║ Exclude critics       ║ Include opponents        ║ Participation audit   ║
+╠══════════════╬═══════════════════════╬══════════════════════════╬═══════════════════════╣
+║ Results      ║ Perception management ║ Measurable outcomes      ║ Empirical verification║
+╚══════════════╩═══════════════════════╩══════════════════════════╩═══════════════════════╝
 ```
 
 ## Part X: Future Frontiers in Redemption Theory
